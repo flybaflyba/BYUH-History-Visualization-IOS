@@ -155,8 +155,8 @@ class SharedValues: ObservableObject {
     
     @Published var oneTempleInfo: Array<ImageSpiral.Info> = Array<ImageSpiral.Info>()
     
-    @Published var sliderProgress: CGFloat = 5300
-    @Published var lastSliderProgress: CGFloat = 5300
+    @Published var sliderProgress: CGFloat = 4550
+    @Published var lastSliderProgress: CGFloat = 4550
     //@Published var bindedValueForAnimatableModifier: CGFloat = 3000
     
     @Published var startYear: String = "2002"

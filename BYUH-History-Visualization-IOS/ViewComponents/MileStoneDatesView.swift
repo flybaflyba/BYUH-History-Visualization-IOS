@@ -31,13 +31,14 @@ struct MileStoneDatesView: View {
         
         VStack {
             
-            NavigationLink(destination: InAppWebView(url: sharedValues.currentTappedTempleLink)) {
-                HStack {
-                    Text(sharedValues.currentTappedTempleName)
-                    Image(systemName: "link")
-                }
-            }
+//            NavigationLink(destination: InAppWebView(url: sharedValues.currentTappedTempleLink)) {
+//                HStack {
+//                    Text(sharedValues.currentTappedTempleName)
+//                    Image(systemName: "link")
+//                }
+//            }
             
+            Text(" ")
             List {
                 VStack {
                     //ForEach() { in }

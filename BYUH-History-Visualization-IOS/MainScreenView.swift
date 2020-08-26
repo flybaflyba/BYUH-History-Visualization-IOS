@@ -410,6 +410,11 @@ struct SpiralView: View {
                 }
                 //}
                 
+                if sharedValues.singleTempleShow {
+                    Text(sharedValues.currentTappedTempleName)
+                        .position(x: temple.x, y: temple.y - temple.size * 0.55)
+                }
+                
                 temple.content
                     .resizable()
                     .frame(width: temple.size, height: temple.size, alignment: Alignment.center)
@@ -525,6 +530,8 @@ struct SpiralView: View {
 //                }
 //                //print("sharedValues.animationInProgress is \(sharedValues.animationInProgress) ")
 //            })
+            
+            
         }
         return body
     }

@@ -1,8 +1,9 @@
 //
 //  AppDelegate.swift
-//  BYUH-History-Visualization-IOS
+//  LDS-Temple-Visualization-IOS
 //
-//  Created by tiantian on 2020/8/26.
+//  Created by Litian Zhang on 6/29/20.
+//  Copyright © 2020 Litian Zhang. All rights reserved.
 //
 
 import UIKit

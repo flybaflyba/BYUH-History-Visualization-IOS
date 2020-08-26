@@ -1,8 +1,9 @@
 //
 //  SceneDelegate.swift
-//  BYUH-History-Visualization-IOS
+//  LDS-Temple-Visualization-IOS
 //
-//  Created by tiantian on 2020/8/26.
+//  Created by Litian Zhang on 6/29/20.
+//  Copyright © 2020 Litian Zhang. All rights reserved.
 //
 
 import UIKit
@@ -19,12 +20,19 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
 
         // Create the SwiftUI view that provides the window contents.
-        let contentView = ContentView()
-
+        //let spiral = ImageSpiral()
+        //let contentView = ContentView(imageSpiralviewModel: spiral)
+        
+        let sharedValues = SharedValues()
+        
+        let contentView = MainScreenView()
+        //let contentView = SettingView()
+        
+        
         // Use a UIHostingController as window root view controller.
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
-            window.rootViewController = UIHostingController(rootView: contentView)
+            window.rootViewController = UIHostingController(rootView: contentView.environmentObject(sharedValues))
             self.window = window
             window.makeKeyAndVisible()
         }
@@ -34,7 +42,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Called as the scene is being released by the system.
         // This occurs shortly after the scene enters the background, or when its session is discarded.
         // Release any resources associated with this scene that can be re-created the next time the scene connects.
-        // The scene may re-connect later, as its session was not necessarily discarded (see `application:didDiscardSceneSessions` instead).
+        // The scene may re-connect later, as its session was not neccessarily discarded (see `application:didDiscardSceneSessions` instead).
     }
 
     func sceneDidBecomeActive(_ scene: UIScene) {

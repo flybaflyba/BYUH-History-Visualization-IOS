@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  LDS-Temple-Visualization-IOS
+
+  Created by tiantian on 2020/8/3.
+  Copyright © 2020 Litian Zhang. All rights reserved.
+*/
+
+CFBundleDisplayName = "EnglishName";
+
+// MainScreenView
+"app.title" = "Temples Timeline";
+
+// YearPicker
+"announced.temples" = "Announced Temples";
+"temples.under.construction" = "Temples under construction";
+"temples.dedicated.in" = "Temples dedicated in"; // the use of this string in YearPicker is in different order in different languages 
+"view" = "View";
+"announced.temples.lower.case" = "announced temples";
+"temples.under.construction.lower.case" = "temples under construction";
+"dismiss" = "Dismiss";
+
+// YeasDisplayView
+//"future.temples" = "Future Temples";
+"first.temple" = "First Temple: 1836";
+
+// InAppWebView
+"this.temple.does.not.have.a.website.yet" = "This temple does not have a website yet";
+"slide.right.to.return" = "Slide Right to Return";
+
+// SettingView
+"settings" = "Settings";
+"default" = "Default";
+"spin" = "Spin";
+"3d" = "3D";
+"mode" = "Mode";
+"slow" = "Slow";
+"fast" = "Fast";
+"off" = "Off";
+"animation" = "Animation";
+"yes" = "Yes";
+"no" = "No";
+"label.background" = "Label Background";
+"on" = "On";
+//"off" = "Off";
+"label" = "Label";
+"about" = "About";
+"temple.list" = "Temple List";
+"with.background" = "with background";
+"without.background" = "without background";
+
+// AboutView
+"about.content" = "Programming by Litian Zhang under the supervision of Dr. Geoffrey Draper at Brigham Young University--Hawaii. \r\rTemple photos are copyrighted by Intellectual Reserve, Inc. Used by permission. \r\rThis app is a research project funded by Brigham Young University--Hawaii, however the contents are the responsibility of its developers. This app is not an \"official\" publication of the Church of Jesus Christ of Latter-day Saints.";
+"app.website" = "App Website";
+"app.website.url" = "https://latterdaytemples.litianzhang.com/apple-english/";
+
+
+
+

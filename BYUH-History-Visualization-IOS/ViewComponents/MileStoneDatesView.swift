@@ -30,6 +30,7 @@ struct MileStoneDatesView: View {
     var body: some View {
         
         VStack {
+            
             NavigationLink(destination: InAppWebView(url: sharedValues.currentTappedTempleLink)) {
                 HStack {
                     Text(sharedValues.currentTappedTempleName)
@@ -37,13 +38,14 @@ struct MileStoneDatesView: View {
                 }
             }
             
-            //ScrollView {
+            List {
                 VStack {
                     //ForEach() { in }
                     Text(oneTempleInfo)
                         .multilineTextAlignment(.center)
+                   
                 }
-            //}
+            }
         }
         //.background(Color.red)
         .opacity(sharedValues.mileStoneDatesViewOpacity)

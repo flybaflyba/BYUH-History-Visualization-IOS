@@ -260,7 +260,6 @@
 /* Begin PBXFileReference section */
 		DD54E64A24F70416007F6C22 /* BYUH-History-Visualization-IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BYUH-History-Visualization-IOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD54E65624F70417007F6C22 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		DD54E65924F70417007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD54E65B24F70417007F6C22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD54E66124F70473007F6C22 /* ImageSpiral.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageSpiral.swift; sourceTree = "<group>"; };
 		DD54E66224F70473007F6C22 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
@@ -280,233 +279,6 @@
 		DD54E67124F70479007F6C22 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DD54E67224F70479007F6C22 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
 		DD54E67324F70479007F6C22 /* SharedValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SharedValues.swift; sourceTree = "<group>"; };
-		DD54E67624F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/melbourne_australia_temple"; sourceTree = "<group>"; };
-		DD54E67824F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/santo_domingo_dominican_republic_temple"; sourceTree = "<group>"; };
-		DD54E67A24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/asuncion_paraguay_temple"; sourceTree = "<group>"; };
-		DD54E67C24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/manti_temple"; sourceTree = "<group>"; };
-		DD54E67E24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/fort_collins_colorado_temple"; sourceTree = "<group>"; };
-		DD54E68024F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/oquirrh_mountain_utah_temple"; sourceTree = "<group>"; };
-		DD54E68224F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/philadelphia_pennsylvania_temple"; sourceTree = "<group>"; };
-		DD54E68424F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/salt_lake_temple"; sourceTree = "<group>"; };
-		DD54E68624F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/san_diego_california_temple"; sourceTree = "<group>"; };
-		DD54E68824F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/snowflake_temple"; sourceTree = "<group>"; };
-		DD54E68A24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/st_louis_temple"; sourceTree = "<group>"; };
-		DD54E68C24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/lubumbashi_democratic_republic_of_the_congo_temple"; sourceTree = "<group>"; };
-		DD54E68E24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/louisville_temple"; sourceTree = "<group>"; };
-		DD54E69024F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/harare_zimbabwe_temple"; sourceTree = "<group>"; };
-		DD54E69224F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/port_moresby_papua_new_guinea_temple"; sourceTree = "<group>"; };
-		DD54E69424F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/puebla_mexico_temple"; sourceTree = "<group>"; };
-		DD54E69624F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/vernal_temple"; sourceTree = "<group>"; };
-		DD54E69824F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/santiago_chile_temple"; sourceTree = "<group>"; };
-		DD54E69A24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/draper_utah_temple"; sourceTree = "<group>"; };
-		DD54E69C24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/tooele_valley_utah_temple"; sourceTree = "<group>"; };
-		DD54E69E24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/birmingham_alabama_temple"; sourceTree = "<group>"; };
-		DD54E6A024F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/saratoga_springs_utah_temple"; sourceTree = "<group>"; };
-		DD54E6A224F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/atlanta_temple"; sourceTree = "<group>"; };
-		DD54E6A424F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/recife_brazil_temple"; sourceTree = "<group>"; };
-		DD54E6A624F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/logan_temple"; sourceTree = "<group>"; };
-		DD54E6A824F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/papeete_tahiti_temple"; sourceTree = "<group>"; };
-		DD54E6AA24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/auckland_new_zealand_temple"; sourceTree = "<group>"; };
-		DD54E6AC24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/urdaneta_philippines_temple"; sourceTree = "<group>"; };
-		DD54E6AE24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/toronto_temple"; sourceTree = "<group>"; };
-		DD54E6B024F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/russia_temple"; sourceTree = "<group>"; };
-		DD54E6B224F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/hartford_connecticut_temple"; sourceTree = "<group>"; };
-		DD54E6B424F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/star_valley_wyoming_temple"; sourceTree = "<group>"; };
-		DD54E6B624F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/guadalajara_temple"; sourceTree = "<group>"; };
-		DD54E6B824F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/tegucigalpa_honduras_temple"; sourceTree = "<group>"; };
-		DD54E6BA24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/praia_cape_verde_temple"; sourceTree = "<group>"; };
-		DD54E6BC24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/layton_utah_temple"; sourceTree = "<group>"; };
-		DD54E6BE24F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/managua_nicaragua_temple"; sourceTree = "<group>"; };
-		DD54E6C024F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/mexico_city_temple"; sourceTree = "<group>"; };
-		DD54E6C224F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/orlando_temple"; sourceTree = "<group>"; };
-		DD54E6C424F7047A007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/cedar_city_utah_temple"; sourceTree = "<group>"; };
-		DD54E6C624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/oakland_temple"; sourceTree = "<group>"; };
-		DD54E6C824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/san_jose_costa_rica_temple"; sourceTree = "<group>"; };
-		DD54E6CA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/benin_city_nigeria_temple"; sourceTree = "<group>"; };
-		DD54E6CC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/sao_paulo_brazil_temple"; sourceTree = "<group>"; };
-		DD54E6CE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bahia_blanca_argentina_temple"; sourceTree = "<group>"; };
-		DD54E6D024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/tokyo_japan_temple"; sourceTree = "<group>"; };
-		DD54E6D224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/kyiv_ukraine_temple"; sourceTree = "<group>"; };
-		DD54E6D424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/newport_beach_california_temple"; sourceTree = "<group>"; };
-		DD54E6D624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/albuquerque_temple"; sourceTree = "<group>"; };
-		DD54E6D824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/monterrey_mexico_temple"; sourceTree = "<group>"; };
-		DD54E6DA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bangkok_thailand_temple"; sourceTree = "<group>"; };
-		DD54E6DC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/tijuana_mexico_temple"; sourceTree = "<group>"; };
-		DD54E6DE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/haiti_temple_exterior"; sourceTree = "<group>"; };
-		DD54E6E024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/quetzaltenango_guatemala_temple"; sourceTree = "<group>"; };
-		DD54E6E224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/guatemala_lds_temple"; sourceTree = "<group>"; };
-		DD54E6E424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/meridian_idaho_temple"; sourceTree = "<group>"; };
-		DD54E6E624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/tucson_arizona_temple"; sourceTree = "<group>"; };
-		DD54E6E824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/manaus_brazil_temple"; sourceTree = "<group>"; };
-		DD54E6EA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/curitiba_brazil_temple"; sourceTree = "<group>"; };
-		DD54E6EC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/yigo_guam_temple"; sourceTree = "<group>"; };
-		DD54E6EE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/belem_brazil_temple"; sourceTree = "<group>"; };
-		DD54E6F024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/cagayan_de_oro_philippines_temple"; sourceTree = "<group>"; };
-		DD54E6F224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/cochabamba_bolivia_temple"; sourceTree = "<group>"; };
-		DD54E6F424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/ogden_utah_temple"; sourceTree = "<group>"; };
-		DD54E6F624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/frankfurt_germany_temple"; sourceTree = "<group>"; };
-		DD54E6F824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/durban_south_africa_temple"; sourceTree = "<group>"; };
-		DD54E6FA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bentonville_arkansas_temple"; sourceTree = "<group>"; };
-		DD54E6FC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/panama_city_temple"; sourceTree = "<group>"; };
-		DD54E6FE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bern_switzerland_temple"; sourceTree = "<group>"; };
-		DD54E70024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/trujillo_peru_temple"; sourceTree = "<group>"; };
-		DD54E70224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/dallas_texas_temple"; sourceTree = "<group>"; };
-		DD54E70424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/provo_city_center_temple"; sourceTree = "<group>"; };
-		DD54E70624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/rome_italy_temple"; sourceTree = "<group>"; };
-		DD54E70824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/cordoba_argentina_temple"; sourceTree = "<group>"; };
-		DD54E70A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/pago_pago_american_samoa_temple"; sourceTree = "<group>"; };
-		DD54E70C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/san_antonio_temple"; sourceTree = "<group>"; };
-		DD54E70E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/manila_philippines_temple"; sourceTree = "<group>"; };
-		DD54E71024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bogota_colombia_temple"; sourceTree = "<group>"; };
-		DD54E71224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/idaho_falls_temple"; sourceTree = "<group>"; };
-		DD54E71424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/detroit_temple"; sourceTree = "<group>"; };
-		DD54E71624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/moses_lake_washington_temple"; sourceTree = "<group>"; };
-		DD54E71824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/fukuoka_japan_temple"; sourceTree = "<group>"; };
-		DD54E71A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/tampico_mexico_temple"; sourceTree = "<group>"; };
-		DD54E71C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/okinawa_city_okinawa_temple"; sourceTree = "<group>"; };
-		DD54E71E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/orem_utah_temple"; sourceTree = "<group>"; };
-		DD54E72024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/chicago_temple"; sourceTree = "<group>"; };
-		DD54E72224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/pocatello_idaho_temple"; sourceTree = "<group>"; };
-		DD54E72424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/abidjan_ivory_coast_temple"; sourceTree = "<group>"; };
-		DD54E72624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/mesa_temple"; sourceTree = "<group>"; };
-		DD54E72824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/nauvoo_temple"; sourceTree = "<group>"; };
-		DD54E72A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/spokane_washington_temple"; sourceTree = "<group>"; };
-		DD54E72C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/colonia_juarez_mexico_temple"; sourceTree = "<group>"; };
-		DD54E72E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/vancouver_temple"; sourceTree = "<group>"; };
-		DD54E73024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/neiafu_tonga_temple"; sourceTree = "<group>"; };
-		DD54E73224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/merida_mexico_temple"; sourceTree = "<group>"; };
-		DD54E73424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/hong_kong_china_temple"; sourceTree = "<group>"; };
-		DD54E73624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/gila_valley_temple"; sourceTree = "<group>"; };
-		DD54E73824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/freetown_sierra_leone_temple"; sourceTree = "<group>"; };
-		DD54E73A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/st_george_temple"; sourceTree = "<group>"; };
-		DD54E73C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/kona_temple"; sourceTree = "<group>"; };
-		DD54E73E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/villahermosa_mexico_temple"; sourceTree = "<group>"; };
-		DD54E74024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/phoenix_arizona_temple"; sourceTree = "<group>"; };
-		DD54E74224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/preston_england_temple"; sourceTree = "<group>"; };
-		DD54E74424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/nashville_temple"; sourceTree = "<group>"; };
-		DD54E74624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/mcallen_texas_temple"; sourceTree = "<group>"; };
-		DD54E74824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bountiful_temple"; sourceTree = "<group>"; };
-		DD54E74A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/freiberg_germany_temple"; sourceTree = "<group>"; };
-		DD54E74C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/calgary_alberta_lds_temple"; sourceTree = "<group>"; };
-		DD54E74E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/kansas_city_temple"; sourceTree = "<group>"; };
-		DD54E75024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bacolod_philippines_temple"; sourceTree = "<group>"; };
-		DD54E75224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/reno_nevada_lds_temple"; sourceTree = "<group>"; };
-		DD54E75424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/buenos_aires_argentina_temple"; sourceTree = "<group>"; };
-		DD54E75624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/feather_river_california_temple"; sourceTree = "<group>"; };
-		DD54E75824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/stockholm_sweden_lds_temple"; sourceTree = "<group>"; };
-		DD54E75A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/fortaleza_brazil_temple"; sourceTree = "<group>"; };
-		DD54E75C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/fort_lauderdale_florida_temple"; sourceTree = "<group>"; };
-		DD54E75E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/twin_falls_temple"; sourceTree = "<group>"; };
-		DD54E76024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/suva_fiji_temple"; sourceTree = "<group>"; };
-		DD54E76224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/hermosillo_sonora_mexico_temple"; sourceTree = "<group>"; };
-		DD54E76424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/antofagasta_chile_temple"; sourceTree = "<group>"; };
-		DD54E76624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/washington_dc_temple"; sourceTree = "<group>"; };
-		DD54E76824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/redlands_temple"; sourceTree = "<group>"; };
-		DD54E76A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/nairobi_kenya_temple"; sourceTree = "<group>"; };
-		DD54E76C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/columbia_temple"; sourceTree = "<group>"; };
-		DD54E76E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/montevideo_uruguay_temple"; sourceTree = "<group>"; };
-		DD54E77024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/indianapolis_indiana_temple"; sourceTree = "<group>"; };
-		DD54E77224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/kirtland_temple"; sourceTree = "<group>"; };
-		DD54E77424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/washington_county_utah_temple"; sourceTree = "<group>"; };
-		DD54E77624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/johannesburg_south_africa_temple"; sourceTree = "<group>"; };
-		DD54E77824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/mount_timpanogos_utah_temple"; sourceTree = "<group>"; };
-		DD54E77A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/san_pedro_sula_honduras_temple"; sourceTree = "<group>"; };
-		DD54E77C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/columbus_ohio_temple"; sourceTree = "<group>"; };
-		DD54E77E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/billings_montana_temple"; sourceTree = "<group>"; };
-		DD54E78024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/columbia_river_temple"; sourceTree = "<group>"; };
-		DD54E78224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/paris_france_temple"; sourceTree = "<group>"; };
-		DD54E78424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/helsinki_finland_temple"; sourceTree = "<group>"; };
-		DD54E78624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/baton_rouge_louisiana_temple"; sourceTree = "<group>"; };
-		DD54E78824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/dubai_united_arab_emirates_temple"; sourceTree = "<group>"; };
-		DD54E78A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/adelaide_australia_temple"; sourceTree = "<group>"; };
-		DD54E78C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/tuxtla_guitierrez_mexico_temple"; sourceTree = "<group>"; };
-		DD54E78E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/tallahassee_florida_temple"; sourceTree = "<group>"; };
-		DD54E79024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/los_angeles_temple"; sourceTree = "<group>"; };
-		DD54E79224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/mendoza_argentina_temple"; sourceTree = "<group>"; };
-		DD54E79424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/las_vegas_temple"; sourceTree = "<group>"; };
-		DD54E79624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/perth_australia_temple"; sourceTree = "<group>"; };
-		DD54E79824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/rio_de_janeiro_brazil_temple"; sourceTree = "<group>"; };
-		DD54E79A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/memphis_tennessee_temple"; sourceTree = "<group>"; };
-		DD54E79C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/san_salvador_el_salvador_temple"; sourceTree = "<group>"; };
-		DD54E79E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/lima_peru_temple"; sourceTree = "<group>"; };
-		DD54E7A024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/boston_temple"; sourceTree = "<group>"; };
-		DD54E7A224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/palmyra_temple"; sourceTree = "<group>"; };
-		DD54E7A424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/accra_ghana_temple"; sourceTree = "<group>"; };
-		DD54E7A624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/laie_hawaii_temple"; sourceTree = "<group>"; };
-		DD54E7A824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/budapest_hungary_temple"; sourceTree = "<group>"; };
-		DD54E7AA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/medford_temple"; sourceTree = "<group>"; };
-		DD54E7AC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/copenhagen_denmark_temple"; sourceTree = "<group>"; };
-		DD54E7AE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/boise_idaho_temple"; sourceTree = "<group>"; };
-		DD54E7B024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/sydney_australia_temple"; sourceTree = "<group>"; };
-		DD54E7B224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/seoul_korea_temple"; sourceTree = "<group>"; };
-		DD54E7B424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/pittsburgh_pennsylvania_temple"; sourceTree = "<group>"; };
-		DD54E7B624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/london_england_temple"; sourceTree = "<group>"; };
-		DD54E7B824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/apia_samoa_temple"; sourceTree = "<group>"; };
-		DD54E7BA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/davao_philippines_temple"; sourceTree = "<group>"; };
-		DD54E7BC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/brisbane_australia_temple"; sourceTree = "<group>"; };
-		DD54E7BE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/salta_argentina_temple"; sourceTree = "<group>"; };
-		DD54E7C024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/caracas_venezuela_temple"; sourceTree = "<group>"; };
-		DD54E7C224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/cebu_philippines_temple"; sourceTree = "<group>"; };
-		DD54E7C424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/winnipeg_manitoba_temple"; sourceTree = "<group>"; };
-		DD54E7C624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/concepcion_chile_temple"; sourceTree = "<group>"; };
-		DD54E7C824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bengaluru_india_temple"; sourceTree = "<group>"; };
-		DD54E7CA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/bismark_north_dakota_temple"; sourceTree = "<group>"; };
-		DD54E7CC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/veracruz_mexico_temple"; sourceTree = "<group>"; };
-		DD54E7CE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/anchorage_alaska_temple"; sourceTree = "<group>"; };
-		DD54E7D024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/raleigh_north_carolina_temple"; sourceTree = "<group>"; };
-		DD54E7D224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/winter_quarters_temple"; sourceTree = "<group>"; };
-		DD54E7D424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/barranquilla_columbia_temple"; sourceTree = "<group>"; };
-		DD54E7D624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/taipei_taiwan_temple"; sourceTree = "<group>"; };
-		DD54E7D824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/regina_temple"; sourceTree = "<group>"; };
-		DD54E7DA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/richmond_virginia_temple"; sourceTree = "<group>"; };
-		DD54E7DC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/lagos_nigeria_temple"; sourceTree = "<group>"; };
-		DD54E7DE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/lisbon_portugal_temple"; sourceTree = "<group>"; };
-		DD54E7E024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/montreal_quebec_temple"; sourceTree = "<group>"; };
-		DD54E7E224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/denver_colorado_templ"; sourceTree = "<group>"; };
-		DD54E7E424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/seattle_temple"; sourceTree = "<group>"; };
-		DD54E7E624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/fresno_temple"; sourceTree = "<group>"; };
-		DD54E7E824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/salvador_brazil_temple"; sourceTree = "<group>"; };
-		DD54E7EA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/portland_oregon_temple"; sourceTree = "<group>"; };
-		DD54E7EC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/hamilton_new_zealand_temple"; sourceTree = "<group>"; };
-		DD54E7EE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/madrid_spain_temple"; sourceTree = "<group>"; };
-		DD54E7F024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/payson_utah_temple"; sourceTree = "<group>"; };
-		DD54E7F224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/cardston_alberta_temple"; sourceTree = "<group>"; };
-		DD54E7F424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/lima_peru_los_olivos_temple"; sourceTree = "<group>"; };
-		DD54E7F624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/nukualofa_tonga_temple"; sourceTree = "<group>"; };
-		DD54E7F824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/campinas_brazil_temple"; sourceTree = "<group>"; };
-		DD54E7FA24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/lubbock_temple"; sourceTree = "<group>"; };
-		DD54E7FC24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/edmonton_alberta_temple"; sourceTree = "<group>"; };
-		DD54E7FE24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/brigham_city_utah_temple"; sourceTree = "<group>"; };
-		DD54E80024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/monticello_utah_temple"; sourceTree = "<group>"; };
-		DD54E80224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/quito_ecuador_temple"; sourceTree = "<group>"; };
-		DD54E80424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/kinshasa_temple"; sourceTree = "<group>"; };
-		DD54E80624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/sacramento_temple"; sourceTree = "<group>"; };
-		DD54E80824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/houston_texas_temple"; sourceTree = "<group>"; };
-		DD54E80A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/alabang_philippines_temple"; sourceTree = "<group>"; };
-		DD54E80C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/the_hague_netherlands_temple"; sourceTree = "<group>"; };
-		DD54E80E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/rexburg_idaho_temple"; sourceTree = "<group>"; };
-		DD54E81024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/porto_alegre_brazil_temple"; sourceTree = "<group>"; };
-		DD54E81224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/shanghai_china_temple"; sourceTree = "<group>"; };
-		DD54E81424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/sapporo_japan_temple"; sourceTree = "<group>"; };
-		DD54E81624F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/manhattan_temple"; sourceTree = "<group>"; };
-		DD54E81824F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/taylorsville_utah_temple"; sourceTree = "<group>"; };
-		DD54E81A24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/jordan_river_temple"; sourceTree = "<group>"; };
-		DD54E81C24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/ciudad_juarez_mexico_temple"; sourceTree = "<group>"; };
-		DD54E81E24F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/halifax_nova_scotia_lds_temple"; sourceTree = "<group>"; };
-		DD54E82024F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/arequipa_peru_temple"; sourceTree = "<group>"; };
-		DD54E82224F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/coban_guatemala_temple"; sourceTree = "<group>"; };
-		DD54E82424F7047B007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/syracuse_utah_temple"; sourceTree = "<group>"; };
-		DD54E82624F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/guayaquil_ecuador_temple"; sourceTree = "<group>"; };
-		DD54E82824F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/aba_nigeria_temple"; sourceTree = "<group>"; };
-		DD54E82A24F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/gilbert_arizona_temple"; sourceTree = "<group>"; };
-		DD54E82C24F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/san_juan_puerto_rico_temple"; sourceTree = "<group>"; };
-		DD54E82E24F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/st_paul_temple"; sourceTree = "<group>"; };
-		DD54E83024F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/provo_temple"; sourceTree = "<group>"; };
-		DD54E83224F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/oaxaca_mexico_temple"; sourceTree = "<group>"; };
-		DD54E83424F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/phnom_penh_cambodia_temple"; sourceTree = "<group>"; };
-		DD54E83624F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/brasilia_brazil_temple"; sourceTree = "<group>"; };
-		DD54E83824F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/oklahoma_city_temple"; sourceTree = "<group>"; };
-		DD54E83A24F7047C007F6C22 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text; name = "zh-Hans"; path = "zh-Hans.lproj/old_nauvoo_temple"; sourceTree = "<group>"; };
 		DD54E83B24F7047C007F6C22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = en.lproj/melbourne_australia_temple; sourceTree = "<group>"; };
 		DD54E83C24F7047C007F6C22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = en.lproj/santo_domingo_dominican_republic_temple; sourceTree = "<group>"; };
 		DD54E83D24F7047C007F6C22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = en.lproj/asuncion_paraguay_temple; sourceTree = "<group>"; };
@@ -734,234 +506,8 @@
 		DD54E91B24F7047C007F6C22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = en.lproj/brasilia_brazil_temple; sourceTree = "<group>"; };
 		DD54E91C24F7047C007F6C22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = en.lproj/oklahoma_city_temple; sourceTree = "<group>"; };
 		DD54E91D24F7047C007F6C22 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = en.lproj/old_nauvoo_temple; sourceTree = "<group>"; };
-		DD54E91E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/melbourne_australia_temple; sourceTree = "<group>"; };
-		DD54E91F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/santo_domingo_dominican_republic_temple; sourceTree = "<group>"; };
-		DD54E92024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/asuncion_paraguay_temple; sourceTree = "<group>"; };
-		DD54E92124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/manti_temple; sourceTree = "<group>"; };
-		DD54E92224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/fort_collins_colorado_temple; sourceTree = "<group>"; };
-		DD54E92324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/oquirrh_mountain_utah_temple; sourceTree = "<group>"; };
-		DD54E92424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/philadelphia_pennsylvania_temple; sourceTree = "<group>"; };
-		DD54E92524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/salt_lake_temple; sourceTree = "<group>"; };
-		DD54E92624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/san_diego_california_temple; sourceTree = "<group>"; };
-		DD54E92724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/snowflake_temple; sourceTree = "<group>"; };
-		DD54E92824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/st_louis_temple; sourceTree = "<group>"; };
-		DD54E92924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/lubumbashi_democratic_republic_of_the_congo_temple; sourceTree = "<group>"; };
-		DD54E92A24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/louisville_temple; sourceTree = "<group>"; };
-		DD54E92B24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/harare_zimbabwe_temple; sourceTree = "<group>"; };
-		DD54E92C24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/port_moresby_papua_new_guinea_temple; sourceTree = "<group>"; };
-		DD54E92D24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/puebla_mexico_temple; sourceTree = "<group>"; };
-		DD54E92E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/vernal_temple; sourceTree = "<group>"; };
-		DD54E92F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/santiago_chile_temple; sourceTree = "<group>"; };
-		DD54E93024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/draper_utah_temple; sourceTree = "<group>"; };
-		DD54E93124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/tooele_valley_utah_temple; sourceTree = "<group>"; };
-		DD54E93224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/birmingham_alabama_temple; sourceTree = "<group>"; };
-		DD54E93324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/saratoga_springs_utah_temple; sourceTree = "<group>"; };
-		DD54E93424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/atlanta_temple; sourceTree = "<group>"; };
-		DD54E93524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/recife_brazil_temple; sourceTree = "<group>"; };
-		DD54E93624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/logan_temple; sourceTree = "<group>"; };
-		DD54E93724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/papeete_tahiti_temple; sourceTree = "<group>"; };
-		DD54E93824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/auckland_new_zealand_temple; sourceTree = "<group>"; };
-		DD54E93924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/urdaneta_philippines_temple; sourceTree = "<group>"; };
-		DD54E93A24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/toronto_temple; sourceTree = "<group>"; };
-		DD54E93B24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/russia_temple; sourceTree = "<group>"; };
-		DD54E93C24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/hartford_connecticut_temple; sourceTree = "<group>"; };
-		DD54E93D24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/star_valley_wyoming_temple; sourceTree = "<group>"; };
-		DD54E93E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/guadalajara_temple; sourceTree = "<group>"; };
-		DD54E93F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/tegucigalpa_honduras_temple; sourceTree = "<group>"; };
-		DD54E94024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/praia_cape_verde_temple; sourceTree = "<group>"; };
-		DD54E94124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/layton_utah_temple; sourceTree = "<group>"; };
-		DD54E94224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/managua_nicaragua_temple; sourceTree = "<group>"; };
-		DD54E94324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/mexico_city_temple; sourceTree = "<group>"; };
-		DD54E94424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/orlando_temple; sourceTree = "<group>"; };
-		DD54E94524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/cedar_city_utah_temple; sourceTree = "<group>"; };
-		DD54E94624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/oakland_temple; sourceTree = "<group>"; };
-		DD54E94724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/san_jose_costa_rica_temple; sourceTree = "<group>"; };
-		DD54E94824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/benin_city_nigeria_temple; sourceTree = "<group>"; };
-		DD54E94924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/sao_paulo_brazil_temple; sourceTree = "<group>"; };
-		DD54E94A24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bahia_blanca_argentina_temple; sourceTree = "<group>"; };
-		DD54E94B24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/tokyo_japan_temple; sourceTree = "<group>"; };
-		DD54E94C24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/kyiv_ukraine_temple; sourceTree = "<group>"; };
-		DD54E94D24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/newport_beach_california_temple; sourceTree = "<group>"; };
-		DD54E94E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/albuquerque_temple; sourceTree = "<group>"; };
-		DD54E94F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/monterrey_mexico_temple; sourceTree = "<group>"; };
-		DD54E95024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bangkok_thailand_temple; sourceTree = "<group>"; };
-		DD54E95124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/tijuana_mexico_temple; sourceTree = "<group>"; };
-		DD54E95224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/haiti_temple_exterior; sourceTree = "<group>"; };
-		DD54E95324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/quetzaltenango_guatemala_temple; sourceTree = "<group>"; };
-		DD54E95424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/guatemala_lds_temple; sourceTree = "<group>"; };
-		DD54E95524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/meridian_idaho_temple; sourceTree = "<group>"; };
-		DD54E95624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/tucson_arizona_temple; sourceTree = "<group>"; };
-		DD54E95724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/manaus_brazil_temple; sourceTree = "<group>"; };
-		DD54E95824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/curitiba_brazil_temple; sourceTree = "<group>"; };
-		DD54E95924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/yigo_guam_temple; sourceTree = "<group>"; };
-		DD54E95A24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/belem_brazil_temple; sourceTree = "<group>"; };
-		DD54E95B24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/cagayan_de_oro_philippines_temple; sourceTree = "<group>"; };
-		DD54E95C24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/cochabamba_bolivia_temple; sourceTree = "<group>"; };
-		DD54E95D24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/ogden_utah_temple; sourceTree = "<group>"; };
-		DD54E95E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/frankfurt_germany_temple; sourceTree = "<group>"; };
-		DD54E95F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/durban_south_africa_temple; sourceTree = "<group>"; };
-		DD54E96024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bentonville_arkansas_temple; sourceTree = "<group>"; };
-		DD54E96124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/panama_city_temple; sourceTree = "<group>"; };
-		DD54E96224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bern_switzerland_temple; sourceTree = "<group>"; };
-		DD54E96324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/trujillo_peru_temple; sourceTree = "<group>"; };
-		DD54E96424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/dallas_texas_temple; sourceTree = "<group>"; };
-		DD54E96524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/provo_city_center_temple; sourceTree = "<group>"; };
-		DD54E96624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/rome_italy_temple; sourceTree = "<group>"; };
-		DD54E96724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/cordoba_argentina_temple; sourceTree = "<group>"; };
-		DD54E96824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/pago_pago_american_samoa_temple; sourceTree = "<group>"; };
-		DD54E96924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/san_antonio_temple; sourceTree = "<group>"; };
-		DD54E96A24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/manila_philippines_temple; sourceTree = "<group>"; };
-		DD54E96B24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bogota_colombia_temple; sourceTree = "<group>"; };
-		DD54E96C24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/idaho_falls_temple; sourceTree = "<group>"; };
-		DD54E96D24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/detroit_temple; sourceTree = "<group>"; };
-		DD54E96E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/moses_lake_washington_temple; sourceTree = "<group>"; };
-		DD54E96F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/fukuoka_japan_temple; sourceTree = "<group>"; };
-		DD54E97024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/tampico_mexico_temple; sourceTree = "<group>"; };
-		DD54E97124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/okinawa_city_okinawa_temple; sourceTree = "<group>"; };
-		DD54E97224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/orem_utah_temple; sourceTree = "<group>"; };
-		DD54E97324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/chicago_temple; sourceTree = "<group>"; };
-		DD54E97424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/pocatello_idaho_temple; sourceTree = "<group>"; };
-		DD54E97524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/abidjan_ivory_coast_temple; sourceTree = "<group>"; };
-		DD54E97624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/mesa_temple; sourceTree = "<group>"; };
-		DD54E97724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/nauvoo_temple; sourceTree = "<group>"; };
-		DD54E97824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/spokane_washington_temple; sourceTree = "<group>"; };
-		DD54E97924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/colonia_juarez_mexico_temple; sourceTree = "<group>"; };
-		DD54E97A24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/vancouver_temple; sourceTree = "<group>"; };
-		DD54E97B24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/neiafu_tonga_temple; sourceTree = "<group>"; };
-		DD54E97C24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/merida_mexico_temple; sourceTree = "<group>"; };
-		DD54E97D24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/hong_kong_china_temple; sourceTree = "<group>"; };
-		DD54E97E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/gila_valley_temple; sourceTree = "<group>"; };
-		DD54E97F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/freetown_sierra_leone_temple; sourceTree = "<group>"; };
-		DD54E98024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/st_george_temple; sourceTree = "<group>"; };
-		DD54E98124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/kona_temple; sourceTree = "<group>"; };
-		DD54E98224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/villahermosa_mexico_temple; sourceTree = "<group>"; };
-		DD54E98324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/phoenix_arizona_temple; sourceTree = "<group>"; };
-		DD54E98424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/preston_england_temple; sourceTree = "<group>"; };
-		DD54E98524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/nashville_temple; sourceTree = "<group>"; };
-		DD54E98624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/mcallen_texas_temple; sourceTree = "<group>"; };
-		DD54E98724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bountiful_temple; sourceTree = "<group>"; };
-		DD54E98824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/freiberg_germany_temple; sourceTree = "<group>"; };
-		DD54E98924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/calgary_alberta_lds_temple; sourceTree = "<group>"; };
-		DD54E98A24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/kansas_city_temple; sourceTree = "<group>"; };
-		DD54E98B24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bacolod_philippines_temple; sourceTree = "<group>"; };
-		DD54E98C24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/reno_nevada_lds_temple; sourceTree = "<group>"; };
-		DD54E98D24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/buenos_aires_argentina_temple; sourceTree = "<group>"; };
-		DD54E98E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/feather_river_california_temple; sourceTree = "<group>"; };
-		DD54E98F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/stockholm_sweden_lds_temple; sourceTree = "<group>"; };
-		DD54E99024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/fortaleza_brazil_temple; sourceTree = "<group>"; };
-		DD54E99124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/fort_lauderdale_florida_temple; sourceTree = "<group>"; };
-		DD54E99224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/twin_falls_temple; sourceTree = "<group>"; };
-		DD54E99324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/suva_fiji_temple; sourceTree = "<group>"; };
-		DD54E99424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/hermosillo_sonora_mexico_temple; sourceTree = "<group>"; };
-		DD54E99524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/antofagasta_chile_temple; sourceTree = "<group>"; };
-		DD54E99624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/washington_dc_temple; sourceTree = "<group>"; };
-		DD54E99724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/redlands_temple; sourceTree = "<group>"; };
-		DD54E99824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/nairobi_kenya_temple; sourceTree = "<group>"; };
-		DD54E99924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/columbia_temple; sourceTree = "<group>"; };
-		DD54E99A24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/montevideo_uruguay_temple; sourceTree = "<group>"; };
-		DD54E99B24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/indianapolis_indiana_temple; sourceTree = "<group>"; };
-		DD54E99C24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/kirtland_temple; sourceTree = "<group>"; };
-		DD54E99D24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/washington_county_utah_temple; sourceTree = "<group>"; };
-		DD54E99E24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/johannesburg_south_africa_temple; sourceTree = "<group>"; };
-		DD54E99F24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/mount_timpanogos_utah_temple; sourceTree = "<group>"; };
-		DD54E9A024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/san_pedro_sula_honduras_temple; sourceTree = "<group>"; };
-		DD54E9A124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/columbus_ohio_temple; sourceTree = "<group>"; };
-		DD54E9A224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/billings_montana_temple; sourceTree = "<group>"; };
-		DD54E9A324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/columbia_river_temple; sourceTree = "<group>"; };
-		DD54E9A424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/paris_france_temple; sourceTree = "<group>"; };
-		DD54E9A524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/helsinki_finland_temple; sourceTree = "<group>"; };
-		DD54E9A624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/baton_rouge_louisiana_temple; sourceTree = "<group>"; };
-		DD54E9A724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/dubai_united_arab_emirates_temple; sourceTree = "<group>"; };
-		DD54E9A824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/adelaide_australia_temple; sourceTree = "<group>"; };
-		DD54E9A924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/tuxtla_guitierrez_mexico_temple; sourceTree = "<group>"; };
-		DD54E9AA24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/tallahassee_florida_temple; sourceTree = "<group>"; };
-		DD54E9AB24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/los_angeles_temple; sourceTree = "<group>"; };
-		DD54E9AC24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/mendoza_argentina_temple; sourceTree = "<group>"; };
-		DD54E9AD24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/las_vegas_temple; sourceTree = "<group>"; };
-		DD54E9AE24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/perth_australia_temple; sourceTree = "<group>"; };
-		DD54E9AF24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/rio_de_janeiro_brazil_temple; sourceTree = "<group>"; };
-		DD54E9B024F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/memphis_tennessee_temple; sourceTree = "<group>"; };
-		DD54E9B124F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/san_salvador_el_salvador_temple; sourceTree = "<group>"; };
-		DD54E9B224F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/lima_peru_temple; sourceTree = "<group>"; };
-		DD54E9B324F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/boston_temple; sourceTree = "<group>"; };
-		DD54E9B424F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/palmyra_temple; sourceTree = "<group>"; };
-		DD54E9B524F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/accra_ghana_temple; sourceTree = "<group>"; };
-		DD54E9B624F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/laie_hawaii_temple; sourceTree = "<group>"; };
-		DD54E9B724F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/budapest_hungary_temple; sourceTree = "<group>"; };
-		DD54E9B824F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/medford_temple; sourceTree = "<group>"; };
-		DD54E9B924F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/copenhagen_denmark_temple; sourceTree = "<group>"; };
-		DD54E9BA24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/boise_idaho_temple; sourceTree = "<group>"; };
-		DD54E9BB24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/sydney_australia_temple; sourceTree = "<group>"; };
-		DD54E9BC24F7047C007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/seoul_korea_temple; sourceTree = "<group>"; };
-		DD54E9BD24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/pittsburgh_pennsylvania_temple; sourceTree = "<group>"; };
-		DD54E9BE24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/london_england_temple; sourceTree = "<group>"; };
-		DD54E9BF24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/apia_samoa_temple; sourceTree = "<group>"; };
-		DD54E9C024F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/davao_philippines_temple; sourceTree = "<group>"; };
-		DD54E9C124F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/brisbane_australia_temple; sourceTree = "<group>"; };
-		DD54E9C224F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/salta_argentina_temple; sourceTree = "<group>"; };
-		DD54E9C324F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/caracas_venezuela_temple; sourceTree = "<group>"; };
-		DD54E9C424F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/cebu_philippines_temple; sourceTree = "<group>"; };
-		DD54E9C524F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/winnipeg_manitoba_temple; sourceTree = "<group>"; };
-		DD54E9C624F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/concepcion_chile_temple; sourceTree = "<group>"; };
-		DD54E9C724F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bengaluru_india_temple; sourceTree = "<group>"; };
-		DD54E9C824F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/bismark_north_dakota_temple; sourceTree = "<group>"; };
-		DD54E9C924F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/veracruz_mexico_temple; sourceTree = "<group>"; };
-		DD54E9CA24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/anchorage_alaska_temple; sourceTree = "<group>"; };
-		DD54E9CB24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/raleigh_north_carolina_temple; sourceTree = "<group>"; };
-		DD54E9CC24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/winter_quarters_temple; sourceTree = "<group>"; };
-		DD54E9CD24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/barranquilla_columbia_temple; sourceTree = "<group>"; };
-		DD54E9CE24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/taipei_taiwan_temple; sourceTree = "<group>"; };
-		DD54E9CF24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/regina_temple; sourceTree = "<group>"; };
-		DD54E9D024F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/richmond_virginia_temple; sourceTree = "<group>"; };
-		DD54E9D124F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/lagos_nigeria_temple; sourceTree = "<group>"; };
-		DD54E9D224F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/lisbon_portugal_temple; sourceTree = "<group>"; };
-		DD54E9D324F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/montreal_quebec_temple; sourceTree = "<group>"; };
-		DD54E9D424F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/denver_colorado_templ; sourceTree = "<group>"; };
-		DD54E9D524F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/seattle_temple; sourceTree = "<group>"; };
-		DD54E9D624F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/fresno_temple; sourceTree = "<group>"; };
-		DD54E9D724F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/salvador_brazil_temple; sourceTree = "<group>"; };
-		DD54E9D824F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/portland_oregon_temple; sourceTree = "<group>"; };
-		DD54E9D924F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/hamilton_new_zealand_temple; sourceTree = "<group>"; };
-		DD54E9DA24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/madrid_spain_temple; sourceTree = "<group>"; };
-		DD54E9DB24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/payson_utah_temple; sourceTree = "<group>"; };
-		DD54E9DC24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/cardston_alberta_temple; sourceTree = "<group>"; };
-		DD54E9DD24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/lima_peru_los_olivos_temple; sourceTree = "<group>"; };
-		DD54E9DE24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/nukualofa_tonga_temple; sourceTree = "<group>"; };
-		DD54E9DF24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/campinas_brazil_temple; sourceTree = "<group>"; };
-		DD54E9E024F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/lubbock_temple; sourceTree = "<group>"; };
-		DD54E9E124F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/edmonton_alberta_temple; sourceTree = "<group>"; };
-		DD54E9E224F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/brigham_city_utah_temple; sourceTree = "<group>"; };
-		DD54E9E324F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/monticello_utah_temple; sourceTree = "<group>"; };
-		DD54E9E424F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/quito_ecuador_temple; sourceTree = "<group>"; };
-		DD54E9E524F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/kinshasa_temple; sourceTree = "<group>"; };
-		DD54E9E624F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/sacramento_temple; sourceTree = "<group>"; };
-		DD54E9E724F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/houston_texas_temple; sourceTree = "<group>"; };
-		DD54E9E824F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/alabang_philippines_temple; sourceTree = "<group>"; };
-		DD54E9E924F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/the_hague_netherlands_temple; sourceTree = "<group>"; };
-		DD54E9EA24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/rexburg_idaho_temple; sourceTree = "<group>"; };
-		DD54E9EB24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/porto_alegre_brazil_temple; sourceTree = "<group>"; };
-		DD54E9EC24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/shanghai_china_temple; sourceTree = "<group>"; };
-		DD54E9ED24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/sapporo_japan_temple; sourceTree = "<group>"; };
-		DD54E9EE24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/manhattan_temple; sourceTree = "<group>"; };
-		DD54E9EF24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/taylorsville_utah_temple; sourceTree = "<group>"; };
-		DD54E9F024F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/jordan_river_temple; sourceTree = "<group>"; };
-		DD54E9F124F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/ciudad_juarez_mexico_temple; sourceTree = "<group>"; };
-		DD54E9F224F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/halifax_nova_scotia_lds_temple; sourceTree = "<group>"; };
-		DD54E9F324F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/arequipa_peru_temple; sourceTree = "<group>"; };
-		DD54E9F424F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/coban_guatemala_temple; sourceTree = "<group>"; };
-		DD54E9F524F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/syracuse_utah_temple; sourceTree = "<group>"; };
-		DD54E9F624F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/guayaquil_ecuador_temple; sourceTree = "<group>"; };
-		DD54E9F724F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/aba_nigeria_temple; sourceTree = "<group>"; };
-		DD54E9F824F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/gilbert_arizona_temple; sourceTree = "<group>"; };
-		DD54E9F924F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/san_juan_puerto_rico_temple; sourceTree = "<group>"; };
-		DD54E9FA24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/st_paul_temple; sourceTree = "<group>"; };
-		DD54E9FB24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/provo_temple; sourceTree = "<group>"; };
-		DD54E9FC24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/oaxaca_mexico_temple; sourceTree = "<group>"; };
-		DD54E9FD24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/phnom_penh_cambodia_temple; sourceTree = "<group>"; };
-		DD54E9FE24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/brasilia_brazil_temple; sourceTree = "<group>"; };
-		DD54E9FF24F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/oklahoma_city_temple; sourceTree = "<group>"; };
-		DD54EA0024F7047D007F6C22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/old_nauvoo_temple; sourceTree = "<group>"; };
 		DD54EA0124F7047D007F6C22 /* templeNamesYears */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = templeNamesYears; sourceTree = "<group>"; };
+		DD54EAF824F70A88007F6C22 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1312,8 +858,6 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				Base,
-				"zh-Hans",
 			);
 			mainGroup = DD54E64124F70416007F6C22;
 			productRefGroup = DD54E64B24F70416007F6C22 /* Products */;
@@ -1597,7 +1141,7 @@
 		DD54E65824F70417007F6C22 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E65924F70417007F6C22 /* Base */,
+				DD54EAF824F70A88007F6C22 /* en */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -1605,9 +1149,7 @@
 		DD54E67524F7047A007F6C22 /* melbourne_australia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E67624F7047A007F6C22 /* zh-Hans */,
 				DD54E83B24F7047C007F6C22 /* en */,
-				DD54E91E24F7047C007F6C22 /* Base */,
 			);
 			name = melbourne_australia_temple;
 			sourceTree = "<group>";
@@ -1615,9 +1157,7 @@
 		DD54E67724F7047A007F6C22 /* santo_domingo_dominican_republic_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E67824F7047A007F6C22 /* zh-Hans */,
 				DD54E83C24F7047C007F6C22 /* en */,
-				DD54E91F24F7047C007F6C22 /* Base */,
 			);
 			name = santo_domingo_dominican_republic_temple;
 			sourceTree = "<group>";
@@ -1625,9 +1165,7 @@
 		DD54E67924F7047A007F6C22 /* asuncion_paraguay_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E67A24F7047A007F6C22 /* zh-Hans */,
 				DD54E83D24F7047C007F6C22 /* en */,
-				DD54E92024F7047C007F6C22 /* Base */,
 			);
 			name = asuncion_paraguay_temple;
 			sourceTree = "<group>";
@@ -1635,9 +1173,7 @@
 		DD54E67B24F7047A007F6C22 /* manti_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E67C24F7047A007F6C22 /* zh-Hans */,
 				DD54E83E24F7047C007F6C22 /* en */,
-				DD54E92124F7047C007F6C22 /* Base */,
 			);
 			name = manti_temple;
 			sourceTree = "<group>";
@@ -1645,9 +1181,7 @@
 		DD54E67D24F7047A007F6C22 /* fort_collins_colorado_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E67E24F7047A007F6C22 /* zh-Hans */,
 				DD54E83F24F7047C007F6C22 /* en */,
-				DD54E92224F7047C007F6C22 /* Base */,
 			);
 			name = fort_collins_colorado_temple;
 			sourceTree = "<group>";
@@ -1655,9 +1189,7 @@
 		DD54E67F24F7047A007F6C22 /* oquirrh_mountain_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E68024F7047A007F6C22 /* zh-Hans */,
 				DD54E84024F7047C007F6C22 /* en */,
-				DD54E92324F7047C007F6C22 /* Base */,
 			);
 			name = oquirrh_mountain_utah_temple;
 			sourceTree = "<group>";
@@ -1665,9 +1197,7 @@
 		DD54E68124F7047A007F6C22 /* philadelphia_pennsylvania_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E68224F7047A007F6C22 /* zh-Hans */,
 				DD54E84124F7047C007F6C22 /* en */,
-				DD54E92424F7047C007F6C22 /* Base */,
 			);
 			name = philadelphia_pennsylvania_temple;
 			sourceTree = "<group>";
@@ -1675,9 +1205,7 @@
 		DD54E68324F7047A007F6C22 /* salt_lake_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E68424F7047A007F6C22 /* zh-Hans */,
 				DD54E84224F7047C007F6C22 /* en */,
-				DD54E92524F7047C007F6C22 /* Base */,
 			);
 			name = salt_lake_temple;
 			sourceTree = "<group>";
@@ -1685,9 +1213,7 @@
 		DD54E68524F7047A007F6C22 /* san_diego_california_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E68624F7047A007F6C22 /* zh-Hans */,
 				DD54E84324F7047C007F6C22 /* en */,
-				DD54E92624F7047C007F6C22 /* Base */,
 			);
 			name = san_diego_california_temple;
 			sourceTree = "<group>";
@@ -1695,9 +1221,7 @@
 		DD54E68724F7047A007F6C22 /* snowflake_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E68824F7047A007F6C22 /* zh-Hans */,
 				DD54E84424F7047C007F6C22 /* en */,
-				DD54E92724F7047C007F6C22 /* Base */,
 			);
 			name = snowflake_temple;
 			sourceTree = "<group>";
@@ -1705,9 +1229,7 @@
 		DD54E68924F7047A007F6C22 /* st_louis_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E68A24F7047A007F6C22 /* zh-Hans */,
 				DD54E84524F7047C007F6C22 /* en */,
-				DD54E92824F7047C007F6C22 /* Base */,
 			);
 			name = st_louis_temple;
 			sourceTree = "<group>";
@@ -1715,9 +1237,7 @@
 		DD54E68B24F7047A007F6C22 /* lubumbashi_democratic_republic_of_the_congo_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E68C24F7047A007F6C22 /* zh-Hans */,
 				DD54E84624F7047C007F6C22 /* en */,
-				DD54E92924F7047C007F6C22 /* Base */,
 			);
 			name = lubumbashi_democratic_republic_of_the_congo_temple;
 			sourceTree = "<group>";
@@ -1725,9 +1245,7 @@
 		DD54E68D24F7047A007F6C22 /* louisville_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E68E24F7047A007F6C22 /* zh-Hans */,
 				DD54E84724F7047C007F6C22 /* en */,
-				DD54E92A24F7047C007F6C22 /* Base */,
 			);
 			name = louisville_temple;
 			sourceTree = "<group>";
@@ -1735,9 +1253,7 @@
 		DD54E68F24F7047A007F6C22 /* harare_zimbabwe_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E69024F7047A007F6C22 /* zh-Hans */,
 				DD54E84824F7047C007F6C22 /* en */,
-				DD54E92B24F7047C007F6C22 /* Base */,
 			);
 			name = harare_zimbabwe_temple;
 			sourceTree = "<group>";
@@ -1745,9 +1261,7 @@
 		DD54E69124F7047A007F6C22 /* port_moresby_papua_new_guinea_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E69224F7047A007F6C22 /* zh-Hans */,
 				DD54E84924F7047C007F6C22 /* en */,
-				DD54E92C24F7047C007F6C22 /* Base */,
 			);
 			name = port_moresby_papua_new_guinea_temple;
 			sourceTree = "<group>";
@@ -1755,9 +1269,7 @@
 		DD54E69324F7047A007F6C22 /* puebla_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E69424F7047A007F6C22 /* zh-Hans */,
 				DD54E84A24F7047C007F6C22 /* en */,
-				DD54E92D24F7047C007F6C22 /* Base */,
 			);
 			name = puebla_mexico_temple;
 			sourceTree = "<group>";
@@ -1765,9 +1277,7 @@
 		DD54E69524F7047A007F6C22 /* vernal_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E69624F7047A007F6C22 /* zh-Hans */,
 				DD54E84B24F7047C007F6C22 /* en */,
-				DD54E92E24F7047C007F6C22 /* Base */,
 			);
 			name = vernal_temple;
 			sourceTree = "<group>";
@@ -1775,9 +1285,7 @@
 		DD54E69724F7047A007F6C22 /* santiago_chile_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E69824F7047A007F6C22 /* zh-Hans */,
 				DD54E84C24F7047C007F6C22 /* en */,
-				DD54E92F24F7047C007F6C22 /* Base */,
 			);
 			name = santiago_chile_temple;
 			sourceTree = "<group>";
@@ -1785,9 +1293,7 @@
 		DD54E69924F7047A007F6C22 /* draper_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E69A24F7047A007F6C22 /* zh-Hans */,
 				DD54E84D24F7047C007F6C22 /* en */,
-				DD54E93024F7047C007F6C22 /* Base */,
 			);
 			name = draper_utah_temple;
 			sourceTree = "<group>";
@@ -1795,9 +1301,7 @@
 		DD54E69B24F7047A007F6C22 /* tooele_valley_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E69C24F7047A007F6C22 /* zh-Hans */,
 				DD54E84E24F7047C007F6C22 /* en */,
-				DD54E93124F7047C007F6C22 /* Base */,
 			);
 			name = tooele_valley_utah_temple;
 			sourceTree = "<group>";
@@ -1805,9 +1309,7 @@
 		DD54E69D24F7047A007F6C22 /* birmingham_alabama_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E69E24F7047A007F6C22 /* zh-Hans */,
 				DD54E84F24F7047C007F6C22 /* en */,
-				DD54E93224F7047C007F6C22 /* Base */,
 			);
 			name = birmingham_alabama_temple;
 			sourceTree = "<group>";
@@ -1815,9 +1317,7 @@
 		DD54E69F24F7047A007F6C22 /* saratoga_springs_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6A024F7047A007F6C22 /* zh-Hans */,
 				DD54E85024F7047C007F6C22 /* en */,
-				DD54E93324F7047C007F6C22 /* Base */,
 			);
 			name = saratoga_springs_utah_temple;
 			sourceTree = "<group>";
@@ -1825,9 +1325,7 @@
 		DD54E6A124F7047A007F6C22 /* atlanta_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6A224F7047A007F6C22 /* zh-Hans */,
 				DD54E85124F7047C007F6C22 /* en */,
-				DD54E93424F7047C007F6C22 /* Base */,
 			);
 			name = atlanta_temple;
 			sourceTree = "<group>";
@@ -1835,9 +1333,7 @@
 		DD54E6A324F7047A007F6C22 /* recife_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6A424F7047A007F6C22 /* zh-Hans */,
 				DD54E85224F7047C007F6C22 /* en */,
-				DD54E93524F7047C007F6C22 /* Base */,
 			);
 			name = recife_brazil_temple;
 			sourceTree = "<group>";
@@ -1845,9 +1341,7 @@
 		DD54E6A524F7047A007F6C22 /* logan_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6A624F7047A007F6C22 /* zh-Hans */,
 				DD54E85324F7047C007F6C22 /* en */,
-				DD54E93624F7047C007F6C22 /* Base */,
 			);
 			name = logan_temple;
 			sourceTree = "<group>";
@@ -1855,9 +1349,7 @@
 		DD54E6A724F7047A007F6C22 /* papeete_tahiti_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6A824F7047A007F6C22 /* zh-Hans */,
 				DD54E85424F7047C007F6C22 /* en */,
-				DD54E93724F7047C007F6C22 /* Base */,
 			);
 			name = papeete_tahiti_temple;
 			sourceTree = "<group>";
@@ -1865,9 +1357,7 @@
 		DD54E6A924F7047A007F6C22 /* auckland_new_zealand_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6AA24F7047A007F6C22 /* zh-Hans */,
 				DD54E85524F7047C007F6C22 /* en */,
-				DD54E93824F7047C007F6C22 /* Base */,
 			);
 			name = auckland_new_zealand_temple;
 			sourceTree = "<group>";
@@ -1875,9 +1365,7 @@
 		DD54E6AB24F7047A007F6C22 /* urdaneta_philippines_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6AC24F7047A007F6C22 /* zh-Hans */,
 				DD54E85624F7047C007F6C22 /* en */,
-				DD54E93924F7047C007F6C22 /* Base */,
 			);
 			name = urdaneta_philippines_temple;
 			sourceTree = "<group>";
@@ -1885,9 +1373,7 @@
 		DD54E6AD24F7047A007F6C22 /* toronto_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6AE24F7047A007F6C22 /* zh-Hans */,
 				DD54E85724F7047C007F6C22 /* en */,
-				DD54E93A24F7047C007F6C22 /* Base */,
 			);
 			name = toronto_temple;
 			sourceTree = "<group>";
@@ -1895,9 +1381,7 @@
 		DD54E6AF24F7047A007F6C22 /* russia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6B024F7047A007F6C22 /* zh-Hans */,
 				DD54E85824F7047C007F6C22 /* en */,
-				DD54E93B24F7047C007F6C22 /* Base */,
 			);
 			name = russia_temple;
 			sourceTree = "<group>";
@@ -1905,9 +1389,7 @@
 		DD54E6B124F7047A007F6C22 /* hartford_connecticut_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6B224F7047A007F6C22 /* zh-Hans */,
 				DD54E85924F7047C007F6C22 /* en */,
-				DD54E93C24F7047C007F6C22 /* Base */,
 			);
 			name = hartford_connecticut_temple;
 			sourceTree = "<group>";
@@ -1915,9 +1397,7 @@
 		DD54E6B324F7047A007F6C22 /* star_valley_wyoming_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6B424F7047A007F6C22 /* zh-Hans */,
 				DD54E85A24F7047C007F6C22 /* en */,
-				DD54E93D24F7047C007F6C22 /* Base */,
 			);
 			name = star_valley_wyoming_temple;
 			sourceTree = "<group>";
@@ -1925,9 +1405,7 @@
 		DD54E6B524F7047A007F6C22 /* guadalajara_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6B624F7047A007F6C22 /* zh-Hans */,
 				DD54E85B24F7047C007F6C22 /* en */,
-				DD54E93E24F7047C007F6C22 /* Base */,
 			);
 			name = guadalajara_temple;
 			sourceTree = "<group>";
@@ -1935,9 +1413,7 @@
 		DD54E6B724F7047A007F6C22 /* tegucigalpa_honduras_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6B824F7047A007F6C22 /* zh-Hans */,
 				DD54E85C24F7047C007F6C22 /* en */,
-				DD54E93F24F7047C007F6C22 /* Base */,
 			);
 			name = tegucigalpa_honduras_temple;
 			sourceTree = "<group>";
@@ -1945,9 +1421,7 @@
 		DD54E6B924F7047A007F6C22 /* praia_cape_verde_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6BA24F7047A007F6C22 /* zh-Hans */,
 				DD54E85D24F7047C007F6C22 /* en */,
-				DD54E94024F7047C007F6C22 /* Base */,
 			);
 			name = praia_cape_verde_temple;
 			sourceTree = "<group>";
@@ -1955,9 +1429,7 @@
 		DD54E6BB24F7047A007F6C22 /* layton_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6BC24F7047A007F6C22 /* zh-Hans */,
 				DD54E85E24F7047C007F6C22 /* en */,
-				DD54E94124F7047C007F6C22 /* Base */,
 			);
 			name = layton_utah_temple;
 			sourceTree = "<group>";
@@ -1965,9 +1437,7 @@
 		DD54E6BD24F7047A007F6C22 /* managua_nicaragua_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6BE24F7047A007F6C22 /* zh-Hans */,
 				DD54E85F24F7047C007F6C22 /* en */,
-				DD54E94224F7047C007F6C22 /* Base */,
 			);
 			name = managua_nicaragua_temple;
 			sourceTree = "<group>";
@@ -1975,9 +1445,7 @@
 		DD54E6BF24F7047A007F6C22 /* mexico_city_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6C024F7047A007F6C22 /* zh-Hans */,
 				DD54E86024F7047C007F6C22 /* en */,
-				DD54E94324F7047C007F6C22 /* Base */,
 			);
 			name = mexico_city_temple;
 			sourceTree = "<group>";
@@ -1985,9 +1453,7 @@
 		DD54E6C124F7047A007F6C22 /* orlando_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6C224F7047A007F6C22 /* zh-Hans */,
 				DD54E86124F7047C007F6C22 /* en */,
-				DD54E94424F7047C007F6C22 /* Base */,
 			);
 			name = orlando_temple;
 			sourceTree = "<group>";
@@ -1995,9 +1461,7 @@
 		DD54E6C324F7047A007F6C22 /* cedar_city_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6C424F7047A007F6C22 /* zh-Hans */,
 				DD54E86224F7047C007F6C22 /* en */,
-				DD54E94524F7047C007F6C22 /* Base */,
 			);
 			name = cedar_city_utah_temple;
 			sourceTree = "<group>";
@@ -2005,9 +1469,7 @@
 		DD54E6C524F7047A007F6C22 /* oakland_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6C624F7047B007F6C22 /* zh-Hans */,
 				DD54E86324F7047C007F6C22 /* en */,
-				DD54E94624F7047C007F6C22 /* Base */,
 			);
 			name = oakland_temple;
 			sourceTree = "<group>";
@@ -2015,9 +1477,7 @@
 		DD54E6C724F7047B007F6C22 /* san_jose_costa_rica_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6C824F7047B007F6C22 /* zh-Hans */,
 				DD54E86424F7047C007F6C22 /* en */,
-				DD54E94724F7047C007F6C22 /* Base */,
 			);
 			name = san_jose_costa_rica_temple;
 			sourceTree = "<group>";
@@ -2025,9 +1485,7 @@
 		DD54E6C924F7047B007F6C22 /* benin_city_nigeria_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6CA24F7047B007F6C22 /* zh-Hans */,
 				DD54E86524F7047C007F6C22 /* en */,
-				DD54E94824F7047C007F6C22 /* Base */,
 			);
 			name = benin_city_nigeria_temple;
 			sourceTree = "<group>";
@@ -2035,9 +1493,7 @@
 		DD54E6CB24F7047B007F6C22 /* sao_paulo_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6CC24F7047B007F6C22 /* zh-Hans */,
 				DD54E86624F7047C007F6C22 /* en */,
-				DD54E94924F7047C007F6C22 /* Base */,
 			);
 			name = sao_paulo_brazil_temple;
 			sourceTree = "<group>";
@@ -2045,9 +1501,7 @@
 		DD54E6CD24F7047B007F6C22 /* bahia_blanca_argentina_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6CE24F7047B007F6C22 /* zh-Hans */,
 				DD54E86724F7047C007F6C22 /* en */,
-				DD54E94A24F7047C007F6C22 /* Base */,
 			);
 			name = bahia_blanca_argentina_temple;
 			sourceTree = "<group>";
@@ -2055,9 +1509,7 @@
 		DD54E6CF24F7047B007F6C22 /* tokyo_japan_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6D024F7047B007F6C22 /* zh-Hans */,
 				DD54E86824F7047C007F6C22 /* en */,
-				DD54E94B24F7047C007F6C22 /* Base */,
 			);
 			name = tokyo_japan_temple;
 			sourceTree = "<group>";
@@ -2065,9 +1517,7 @@
 		DD54E6D124F7047B007F6C22 /* kyiv_ukraine_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6D224F7047B007F6C22 /* zh-Hans */,
 				DD54E86924F7047C007F6C22 /* en */,
-				DD54E94C24F7047C007F6C22 /* Base */,
 			);
 			name = kyiv_ukraine_temple;
 			sourceTree = "<group>";
@@ -2075,9 +1525,7 @@
 		DD54E6D324F7047B007F6C22 /* newport_beach_california_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6D424F7047B007F6C22 /* zh-Hans */,
 				DD54E86A24F7047C007F6C22 /* en */,
-				DD54E94D24F7047C007F6C22 /* Base */,
 			);
 			name = newport_beach_california_temple;
 			sourceTree = "<group>";
@@ -2085,9 +1533,7 @@
 		DD54E6D524F7047B007F6C22 /* albuquerque_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6D624F7047B007F6C22 /* zh-Hans */,
 				DD54E86B24F7047C007F6C22 /* en */,
-				DD54E94E24F7047C007F6C22 /* Base */,
 			);
 			name = albuquerque_temple;
 			sourceTree = "<group>";
@@ -2095,9 +1541,7 @@
 		DD54E6D724F7047B007F6C22 /* monterrey_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6D824F7047B007F6C22 /* zh-Hans */,
 				DD54E86C24F7047C007F6C22 /* en */,
-				DD54E94F24F7047C007F6C22 /* Base */,
 			);
 			name = monterrey_mexico_temple;
 			sourceTree = "<group>";
@@ -2105,9 +1549,7 @@
 		DD54E6D924F7047B007F6C22 /* bangkok_thailand_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6DA24F7047B007F6C22 /* zh-Hans */,
 				DD54E86D24F7047C007F6C22 /* en */,
-				DD54E95024F7047C007F6C22 /* Base */,
 			);
 			name = bangkok_thailand_temple;
 			sourceTree = "<group>";
@@ -2115,9 +1557,7 @@
 		DD54E6DB24F7047B007F6C22 /* tijuana_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6DC24F7047B007F6C22 /* zh-Hans */,
 				DD54E86E24F7047C007F6C22 /* en */,
-				DD54E95124F7047C007F6C22 /* Base */,
 			);
 			name = tijuana_mexico_temple;
 			sourceTree = "<group>";
@@ -2125,9 +1565,7 @@
 		DD54E6DD24F7047B007F6C22 /* haiti_temple_exterior */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6DE24F7047B007F6C22 /* zh-Hans */,
 				DD54E86F24F7047C007F6C22 /* en */,
-				DD54E95224F7047C007F6C22 /* Base */,
 			);
 			name = haiti_temple_exterior;
 			sourceTree = "<group>";
@@ -2135,9 +1573,7 @@
 		DD54E6DF24F7047B007F6C22 /* quetzaltenango_guatemala_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6E024F7047B007F6C22 /* zh-Hans */,
 				DD54E87024F7047C007F6C22 /* en */,
-				DD54E95324F7047C007F6C22 /* Base */,
 			);
 			name = quetzaltenango_guatemala_temple;
 			sourceTree = "<group>";
@@ -2145,9 +1581,7 @@
 		DD54E6E124F7047B007F6C22 /* guatemala_lds_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6E224F7047B007F6C22 /* zh-Hans */,
 				DD54E87124F7047C007F6C22 /* en */,
-				DD54E95424F7047C007F6C22 /* Base */,
 			);
 			name = guatemala_lds_temple;
 			sourceTree = "<group>";
@@ -2155,9 +1589,7 @@
 		DD54E6E324F7047B007F6C22 /* meridian_idaho_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6E424F7047B007F6C22 /* zh-Hans */,
 				DD54E87224F7047C007F6C22 /* en */,
-				DD54E95524F7047C007F6C22 /* Base */,
 			);
 			name = meridian_idaho_temple;
 			sourceTree = "<group>";
@@ -2165,9 +1597,7 @@
 		DD54E6E524F7047B007F6C22 /* tucson_arizona_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6E624F7047B007F6C22 /* zh-Hans */,
 				DD54E87324F7047C007F6C22 /* en */,
-				DD54E95624F7047C007F6C22 /* Base */,
 			);
 			name = tucson_arizona_temple;
 			sourceTree = "<group>";
@@ -2175,9 +1605,7 @@
 		DD54E6E724F7047B007F6C22 /* manaus_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6E824F7047B007F6C22 /* zh-Hans */,
 				DD54E87424F7047C007F6C22 /* en */,
-				DD54E95724F7047C007F6C22 /* Base */,
 			);
 			name = manaus_brazil_temple;
 			sourceTree = "<group>";
@@ -2185,9 +1613,7 @@
 		DD54E6E924F7047B007F6C22 /* curitiba_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6EA24F7047B007F6C22 /* zh-Hans */,
 				DD54E87524F7047C007F6C22 /* en */,
-				DD54E95824F7047C007F6C22 /* Base */,
 			);
 			name = curitiba_brazil_temple;
 			sourceTree = "<group>";
@@ -2195,9 +1621,7 @@
 		DD54E6EB24F7047B007F6C22 /* yigo_guam_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6EC24F7047B007F6C22 /* zh-Hans */,
 				DD54E87624F7047C007F6C22 /* en */,
-				DD54E95924F7047C007F6C22 /* Base */,
 			);
 			name = yigo_guam_temple;
 			sourceTree = "<group>";
@@ -2205,9 +1629,7 @@
 		DD54E6ED24F7047B007F6C22 /* belem_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6EE24F7047B007F6C22 /* zh-Hans */,
 				DD54E87724F7047C007F6C22 /* en */,
-				DD54E95A24F7047C007F6C22 /* Base */,
 			);
 			name = belem_brazil_temple;
 			sourceTree = "<group>";
@@ -2215,9 +1637,7 @@
 		DD54E6EF24F7047B007F6C22 /* cagayan_de_oro_philippines_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6F024F7047B007F6C22 /* zh-Hans */,
 				DD54E87824F7047C007F6C22 /* en */,
-				DD54E95B24F7047C007F6C22 /* Base */,
 			);
 			name = cagayan_de_oro_philippines_temple;
 			sourceTree = "<group>";
@@ -2225,9 +1645,7 @@
 		DD54E6F124F7047B007F6C22 /* cochabamba_bolivia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6F224F7047B007F6C22 /* zh-Hans */,
 				DD54E87924F7047C007F6C22 /* en */,
-				DD54E95C24F7047C007F6C22 /* Base */,
 			);
 			name = cochabamba_bolivia_temple;
 			sourceTree = "<group>";
@@ -2235,9 +1653,7 @@
 		DD54E6F324F7047B007F6C22 /* ogden_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6F424F7047B007F6C22 /* zh-Hans */,
 				DD54E87A24F7047C007F6C22 /* en */,
-				DD54E95D24F7047C007F6C22 /* Base */,
 			);
 			name = ogden_utah_temple;
 			sourceTree = "<group>";
@@ -2245,9 +1661,7 @@
 		DD54E6F524F7047B007F6C22 /* frankfurt_germany_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6F624F7047B007F6C22 /* zh-Hans */,
 				DD54E87B24F7047C007F6C22 /* en */,
-				DD54E95E24F7047C007F6C22 /* Base */,
 			);
 			name = frankfurt_germany_temple;
 			sourceTree = "<group>";
@@ -2255,9 +1669,7 @@
 		DD54E6F724F7047B007F6C22 /* durban_south_africa_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6F824F7047B007F6C22 /* zh-Hans */,
 				DD54E87C24F7047C007F6C22 /* en */,
-				DD54E95F24F7047C007F6C22 /* Base */,
 			);
 			name = durban_south_africa_temple;
 			sourceTree = "<group>";
@@ -2265,9 +1677,7 @@
 		DD54E6F924F7047B007F6C22 /* bentonville_arkansas_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6FA24F7047B007F6C22 /* zh-Hans */,
 				DD54E87D24F7047C007F6C22 /* en */,
-				DD54E96024F7047C007F6C22 /* Base */,
 			);
 			name = bentonville_arkansas_temple;
 			sourceTree = "<group>";
@@ -2275,9 +1685,7 @@
 		DD54E6FB24F7047B007F6C22 /* panama_city_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6FC24F7047B007F6C22 /* zh-Hans */,
 				DD54E87E24F7047C007F6C22 /* en */,
-				DD54E96124F7047C007F6C22 /* Base */,
 			);
 			name = panama_city_temple;
 			sourceTree = "<group>";
@@ -2285,9 +1693,7 @@
 		DD54E6FD24F7047B007F6C22 /* bern_switzerland_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E6FE24F7047B007F6C22 /* zh-Hans */,
 				DD54E87F24F7047C007F6C22 /* en */,
-				DD54E96224F7047C007F6C22 /* Base */,
 			);
 			name = bern_switzerland_temple;
 			sourceTree = "<group>";
@@ -2295,9 +1701,7 @@
 		DD54E6FF24F7047B007F6C22 /* trujillo_peru_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E70024F7047B007F6C22 /* zh-Hans */,
 				DD54E88024F7047C007F6C22 /* en */,
-				DD54E96324F7047C007F6C22 /* Base */,
 			);
 			name = trujillo_peru_temple;
 			sourceTree = "<group>";
@@ -2305,9 +1709,7 @@
 		DD54E70124F7047B007F6C22 /* dallas_texas_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E70224F7047B007F6C22 /* zh-Hans */,
 				DD54E88124F7047C007F6C22 /* en */,
-				DD54E96424F7047C007F6C22 /* Base */,
 			);
 			name = dallas_texas_temple;
 			sourceTree = "<group>";
@@ -2315,9 +1717,7 @@
 		DD54E70324F7047B007F6C22 /* provo_city_center_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E70424F7047B007F6C22 /* zh-Hans */,
 				DD54E88224F7047C007F6C22 /* en */,
-				DD54E96524F7047C007F6C22 /* Base */,
 			);
 			name = provo_city_center_temple;
 			sourceTree = "<group>";
@@ -2325,9 +1725,7 @@
 		DD54E70524F7047B007F6C22 /* rome_italy_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E70624F7047B007F6C22 /* zh-Hans */,
 				DD54E88324F7047C007F6C22 /* en */,
-				DD54E96624F7047C007F6C22 /* Base */,
 			);
 			name = rome_italy_temple;
 			sourceTree = "<group>";
@@ -2335,9 +1733,7 @@
 		DD54E70724F7047B007F6C22 /* cordoba_argentina_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E70824F7047B007F6C22 /* zh-Hans */,
 				DD54E88424F7047C007F6C22 /* en */,
-				DD54E96724F7047C007F6C22 /* Base */,
 			);
 			name = cordoba_argentina_temple;
 			sourceTree = "<group>";
@@ -2345,9 +1741,7 @@
 		DD54E70924F7047B007F6C22 /* pago_pago_american_samoa_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E70A24F7047B007F6C22 /* zh-Hans */,
 				DD54E88524F7047C007F6C22 /* en */,
-				DD54E96824F7047C007F6C22 /* Base */,
 			);
 			name = pago_pago_american_samoa_temple;
 			sourceTree = "<group>";
@@ -2355,9 +1749,7 @@
 		DD54E70B24F7047B007F6C22 /* san_antonio_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E70C24F7047B007F6C22 /* zh-Hans */,
 				DD54E88624F7047C007F6C22 /* en */,
-				DD54E96924F7047C007F6C22 /* Base */,
 			);
 			name = san_antonio_temple;
 			sourceTree = "<group>";
@@ -2365,9 +1757,7 @@
 		DD54E70D24F7047B007F6C22 /* manila_philippines_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E70E24F7047B007F6C22 /* zh-Hans */,
 				DD54E88724F7047C007F6C22 /* en */,
-				DD54E96A24F7047C007F6C22 /* Base */,
 			);
 			name = manila_philippines_temple;
 			sourceTree = "<group>";
@@ -2375,9 +1765,7 @@
 		DD54E70F24F7047B007F6C22 /* bogota_colombia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E71024F7047B007F6C22 /* zh-Hans */,
 				DD54E88824F7047C007F6C22 /* en */,
-				DD54E96B24F7047C007F6C22 /* Base */,
 			);
 			name = bogota_colombia_temple;
 			sourceTree = "<group>";
@@ -2385,9 +1773,7 @@
 		DD54E71124F7047B007F6C22 /* idaho_falls_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E71224F7047B007F6C22 /* zh-Hans */,
 				DD54E88924F7047C007F6C22 /* en */,
-				DD54E96C24F7047C007F6C22 /* Base */,
 			);
 			name = idaho_falls_temple;
 			sourceTree = "<group>";
@@ -2395,9 +1781,7 @@
 		DD54E71324F7047B007F6C22 /* detroit_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E71424F7047B007F6C22 /* zh-Hans */,
 				DD54E88A24F7047C007F6C22 /* en */,
-				DD54E96D24F7047C007F6C22 /* Base */,
 			);
 			name = detroit_temple;
 			sourceTree = "<group>";
@@ -2405,9 +1789,7 @@
 		DD54E71524F7047B007F6C22 /* moses_lake_washington_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E71624F7047B007F6C22 /* zh-Hans */,
 				DD54E88B24F7047C007F6C22 /* en */,
-				DD54E96E24F7047C007F6C22 /* Base */,
 			);
 			name = moses_lake_washington_temple;
 			sourceTree = "<group>";
@@ -2415,9 +1797,7 @@
 		DD54E71724F7047B007F6C22 /* fukuoka_japan_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E71824F7047B007F6C22 /* zh-Hans */,
 				DD54E88C24F7047C007F6C22 /* en */,
-				DD54E96F24F7047C007F6C22 /* Base */,
 			);
 			name = fukuoka_japan_temple;
 			sourceTree = "<group>";
@@ -2425,9 +1805,7 @@
 		DD54E71924F7047B007F6C22 /* tampico_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E71A24F7047B007F6C22 /* zh-Hans */,
 				DD54E88D24F7047C007F6C22 /* en */,
-				DD54E97024F7047C007F6C22 /* Base */,
 			);
 			name = tampico_mexico_temple;
 			sourceTree = "<group>";
@@ -2435,9 +1813,7 @@
 		DD54E71B24F7047B007F6C22 /* okinawa_city_okinawa_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E71C24F7047B007F6C22 /* zh-Hans */,
 				DD54E88E24F7047C007F6C22 /* en */,
-				DD54E97124F7047C007F6C22 /* Base */,
 			);
 			name = okinawa_city_okinawa_temple;
 			sourceTree = "<group>";
@@ -2445,9 +1821,7 @@
 		DD54E71D24F7047B007F6C22 /* orem_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E71E24F7047B007F6C22 /* zh-Hans */,
 				DD54E88F24F7047C007F6C22 /* en */,
-				DD54E97224F7047C007F6C22 /* Base */,
 			);
 			name = orem_utah_temple;
 			sourceTree = "<group>";
@@ -2455,9 +1829,7 @@
 		DD54E71F24F7047B007F6C22 /* chicago_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E72024F7047B007F6C22 /* zh-Hans */,
 				DD54E89024F7047C007F6C22 /* en */,
-				DD54E97324F7047C007F6C22 /* Base */,
 			);
 			name = chicago_temple;
 			sourceTree = "<group>";
@@ -2465,9 +1837,7 @@
 		DD54E72124F7047B007F6C22 /* pocatello_idaho_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E72224F7047B007F6C22 /* zh-Hans */,
 				DD54E89124F7047C007F6C22 /* en */,
-				DD54E97424F7047C007F6C22 /* Base */,
 			);
 			name = pocatello_idaho_temple;
 			sourceTree = "<group>";
@@ -2475,9 +1845,7 @@
 		DD54E72324F7047B007F6C22 /* abidjan_ivory_coast_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E72424F7047B007F6C22 /* zh-Hans */,
 				DD54E89224F7047C007F6C22 /* en */,
-				DD54E97524F7047C007F6C22 /* Base */,
 			);
 			name = abidjan_ivory_coast_temple;
 			sourceTree = "<group>";
@@ -2485,9 +1853,7 @@
 		DD54E72524F7047B007F6C22 /* mesa_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E72624F7047B007F6C22 /* zh-Hans */,
 				DD54E89324F7047C007F6C22 /* en */,
-				DD54E97624F7047C007F6C22 /* Base */,
 			);
 			name = mesa_temple;
 			sourceTree = "<group>";
@@ -2495,9 +1861,7 @@
 		DD54E72724F7047B007F6C22 /* nauvoo_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E72824F7047B007F6C22 /* zh-Hans */,
 				DD54E89424F7047C007F6C22 /* en */,
-				DD54E97724F7047C007F6C22 /* Base */,
 			);
 			name = nauvoo_temple;
 			sourceTree = "<group>";
@@ -2505,9 +1869,7 @@
 		DD54E72924F7047B007F6C22 /* spokane_washington_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E72A24F7047B007F6C22 /* zh-Hans */,
 				DD54E89524F7047C007F6C22 /* en */,
-				DD54E97824F7047C007F6C22 /* Base */,
 			);
 			name = spokane_washington_temple;
 			sourceTree = "<group>";
@@ -2515,9 +1877,7 @@
 		DD54E72B24F7047B007F6C22 /* colonia_juarez_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E72C24F7047B007F6C22 /* zh-Hans */,
 				DD54E89624F7047C007F6C22 /* en */,
-				DD54E97924F7047C007F6C22 /* Base */,
 			);
 			name = colonia_juarez_mexico_temple;
 			sourceTree = "<group>";
@@ -2525,9 +1885,7 @@
 		DD54E72D24F7047B007F6C22 /* vancouver_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E72E24F7047B007F6C22 /* zh-Hans */,
 				DD54E89724F7047C007F6C22 /* en */,
-				DD54E97A24F7047C007F6C22 /* Base */,
 			);
 			name = vancouver_temple;
 			sourceTree = "<group>";
@@ -2535,9 +1893,7 @@
 		DD54E72F24F7047B007F6C22 /* neiafu_tonga_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E73024F7047B007F6C22 /* zh-Hans */,
 				DD54E89824F7047C007F6C22 /* en */,
-				DD54E97B24F7047C007F6C22 /* Base */,
 			);
 			name = neiafu_tonga_temple;
 			sourceTree = "<group>";
@@ -2545,9 +1901,7 @@
 		DD54E73124F7047B007F6C22 /* merida_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E73224F7047B007F6C22 /* zh-Hans */,
 				DD54E89924F7047C007F6C22 /* en */,
-				DD54E97C24F7047C007F6C22 /* Base */,
 			);
 			name = merida_mexico_temple;
 			sourceTree = "<group>";
@@ -2555,9 +1909,7 @@
 		DD54E73324F7047B007F6C22 /* hong_kong_china_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E73424F7047B007F6C22 /* zh-Hans */,
 				DD54E89A24F7047C007F6C22 /* en */,
-				DD54E97D24F7047C007F6C22 /* Base */,
 			);
 			name = hong_kong_china_temple;
 			sourceTree = "<group>";
@@ -2565,9 +1917,7 @@
 		DD54E73524F7047B007F6C22 /* gila_valley_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E73624F7047B007F6C22 /* zh-Hans */,
 				DD54E89B24F7047C007F6C22 /* en */,
-				DD54E97E24F7047C007F6C22 /* Base */,
 			);
 			name = gila_valley_temple;
 			sourceTree = "<group>";
@@ -2575,9 +1925,7 @@
 		DD54E73724F7047B007F6C22 /* freetown_sierra_leone_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E73824F7047B007F6C22 /* zh-Hans */,
 				DD54E89C24F7047C007F6C22 /* en */,
-				DD54E97F24F7047C007F6C22 /* Base */,
 			);
 			name = freetown_sierra_leone_temple;
 			sourceTree = "<group>";
@@ -2585,9 +1933,7 @@
 		DD54E73924F7047B007F6C22 /* st_george_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E73A24F7047B007F6C22 /* zh-Hans */,
 				DD54E89D24F7047C007F6C22 /* en */,
-				DD54E98024F7047C007F6C22 /* Base */,
 			);
 			name = st_george_temple;
 			sourceTree = "<group>";
@@ -2595,9 +1941,7 @@
 		DD54E73B24F7047B007F6C22 /* kona_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E73C24F7047B007F6C22 /* zh-Hans */,
 				DD54E89E24F7047C007F6C22 /* en */,
-				DD54E98124F7047C007F6C22 /* Base */,
 			);
 			name = kona_temple;
 			sourceTree = "<group>";
@@ -2605,9 +1949,7 @@
 		DD54E73D24F7047B007F6C22 /* villahermosa_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E73E24F7047B007F6C22 /* zh-Hans */,
 				DD54E89F24F7047C007F6C22 /* en */,
-				DD54E98224F7047C007F6C22 /* Base */,
 			);
 			name = villahermosa_mexico_temple;
 			sourceTree = "<group>";
@@ -2615,9 +1957,7 @@
 		DD54E73F24F7047B007F6C22 /* phoenix_arizona_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E74024F7047B007F6C22 /* zh-Hans */,
 				DD54E8A024F7047C007F6C22 /* en */,
-				DD54E98324F7047C007F6C22 /* Base */,
 			);
 			name = phoenix_arizona_temple;
 			sourceTree = "<group>";
@@ -2625,9 +1965,7 @@
 		DD54E74124F7047B007F6C22 /* preston_england_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E74224F7047B007F6C22 /* zh-Hans */,
 				DD54E8A124F7047C007F6C22 /* en */,
-				DD54E98424F7047C007F6C22 /* Base */,
 			);
 			name = preston_england_temple;
 			sourceTree = "<group>";
@@ -2635,9 +1973,7 @@
 		DD54E74324F7047B007F6C22 /* nashville_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E74424F7047B007F6C22 /* zh-Hans */,
 				DD54E8A224F7047C007F6C22 /* en */,
-				DD54E98524F7047C007F6C22 /* Base */,
 			);
 			name = nashville_temple;
 			sourceTree = "<group>";
@@ -2645,9 +1981,7 @@
 		DD54E74524F7047B007F6C22 /* mcallen_texas_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E74624F7047B007F6C22 /* zh-Hans */,
 				DD54E8A324F7047C007F6C22 /* en */,
-				DD54E98624F7047C007F6C22 /* Base */,
 			);
 			name = mcallen_texas_temple;
 			sourceTree = "<group>";
@@ -2655,9 +1989,7 @@
 		DD54E74724F7047B007F6C22 /* bountiful_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E74824F7047B007F6C22 /* zh-Hans */,
 				DD54E8A424F7047C007F6C22 /* en */,
-				DD54E98724F7047C007F6C22 /* Base */,
 			);
 			name = bountiful_temple;
 			sourceTree = "<group>";
@@ -2665,9 +1997,7 @@
 		DD54E74924F7047B007F6C22 /* freiberg_germany_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E74A24F7047B007F6C22 /* zh-Hans */,
 				DD54E8A524F7047C007F6C22 /* en */,
-				DD54E98824F7047C007F6C22 /* Base */,
 			);
 			name = freiberg_germany_temple;
 			sourceTree = "<group>";
@@ -2675,9 +2005,7 @@
 		DD54E74B24F7047B007F6C22 /* calgary_alberta_lds_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E74C24F7047B007F6C22 /* zh-Hans */,
 				DD54E8A624F7047C007F6C22 /* en */,
-				DD54E98924F7047C007F6C22 /* Base */,
 			);
 			name = calgary_alberta_lds_temple;
 			sourceTree = "<group>";
@@ -2685,9 +2013,7 @@
 		DD54E74D24F7047B007F6C22 /* kansas_city_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E74E24F7047B007F6C22 /* zh-Hans */,
 				DD54E8A724F7047C007F6C22 /* en */,
-				DD54E98A24F7047C007F6C22 /* Base */,
 			);
 			name = kansas_city_temple;
 			sourceTree = "<group>";
@@ -2695,9 +2021,7 @@
 		DD54E74F24F7047B007F6C22 /* bacolod_philippines_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E75024F7047B007F6C22 /* zh-Hans */,
 				DD54E8A824F7047C007F6C22 /* en */,
-				DD54E98B24F7047C007F6C22 /* Base */,
 			);
 			name = bacolod_philippines_temple;
 			sourceTree = "<group>";
@@ -2705,9 +2029,7 @@
 		DD54E75124F7047B007F6C22 /* reno_nevada_lds_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E75224F7047B007F6C22 /* zh-Hans */,
 				DD54E8A924F7047C007F6C22 /* en */,
-				DD54E98C24F7047C007F6C22 /* Base */,
 			);
 			name = reno_nevada_lds_temple;
 			sourceTree = "<group>";
@@ -2715,9 +2037,7 @@
 		DD54E75324F7047B007F6C22 /* buenos_aires_argentina_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E75424F7047B007F6C22 /* zh-Hans */,
 				DD54E8AA24F7047C007F6C22 /* en */,
-				DD54E98D24F7047C007F6C22 /* Base */,
 			);
 			name = buenos_aires_argentina_temple;
 			sourceTree = "<group>";
@@ -2725,9 +2045,7 @@
 		DD54E75524F7047B007F6C22 /* feather_river_california_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E75624F7047B007F6C22 /* zh-Hans */,
 				DD54E8AB24F7047C007F6C22 /* en */,
-				DD54E98E24F7047C007F6C22 /* Base */,
 			);
 			name = feather_river_california_temple;
 			sourceTree = "<group>";
@@ -2735,9 +2053,7 @@
 		DD54E75724F7047B007F6C22 /* stockholm_sweden_lds_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E75824F7047B007F6C22 /* zh-Hans */,
 				DD54E8AC24F7047C007F6C22 /* en */,
-				DD54E98F24F7047C007F6C22 /* Base */,
 			);
 			name = stockholm_sweden_lds_temple;
 			sourceTree = "<group>";
@@ -2745,9 +2061,7 @@
 		DD54E75924F7047B007F6C22 /* fortaleza_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E75A24F7047B007F6C22 /* zh-Hans */,
 				DD54E8AD24F7047C007F6C22 /* en */,
-				DD54E99024F7047C007F6C22 /* Base */,
 			);
 			name = fortaleza_brazil_temple;
 			sourceTree = "<group>";
@@ -2755,9 +2069,7 @@
 		DD54E75B24F7047B007F6C22 /* fort_lauderdale_florida_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E75C24F7047B007F6C22 /* zh-Hans */,
 				DD54E8AE24F7047C007F6C22 /* en */,
-				DD54E99124F7047C007F6C22 /* Base */,
 			);
 			name = fort_lauderdale_florida_temple;
 			sourceTree = "<group>";
@@ -2765,9 +2077,7 @@
 		DD54E75D24F7047B007F6C22 /* twin_falls_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E75E24F7047B007F6C22 /* zh-Hans */,
 				DD54E8AF24F7047C007F6C22 /* en */,
-				DD54E99224F7047C007F6C22 /* Base */,
 			);
 			name = twin_falls_temple;
 			sourceTree = "<group>";
@@ -2775,9 +2085,7 @@
 		DD54E75F24F7047B007F6C22 /* suva_fiji_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E76024F7047B007F6C22 /* zh-Hans */,
 				DD54E8B024F7047C007F6C22 /* en */,
-				DD54E99324F7047C007F6C22 /* Base */,
 			);
 			name = suva_fiji_temple;
 			sourceTree = "<group>";
@@ -2785,9 +2093,7 @@
 		DD54E76124F7047B007F6C22 /* hermosillo_sonora_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E76224F7047B007F6C22 /* zh-Hans */,
 				DD54E8B124F7047C007F6C22 /* en */,
-				DD54E99424F7047C007F6C22 /* Base */,
 			);
 			name = hermosillo_sonora_mexico_temple;
 			sourceTree = "<group>";
@@ -2795,9 +2101,7 @@
 		DD54E76324F7047B007F6C22 /* antofagasta_chile_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E76424F7047B007F6C22 /* zh-Hans */,
 				DD54E8B224F7047C007F6C22 /* en */,
-				DD54E99524F7047C007F6C22 /* Base */,
 			);
 			name = antofagasta_chile_temple;
 			sourceTree = "<group>";
@@ -2805,9 +2109,7 @@
 		DD54E76524F7047B007F6C22 /* washington_dc_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E76624F7047B007F6C22 /* zh-Hans */,
 				DD54E8B324F7047C007F6C22 /* en */,
-				DD54E99624F7047C007F6C22 /* Base */,
 			);
 			name = washington_dc_temple;
 			sourceTree = "<group>";
@@ -2815,9 +2117,7 @@
 		DD54E76724F7047B007F6C22 /* redlands_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E76824F7047B007F6C22 /* zh-Hans */,
 				DD54E8B424F7047C007F6C22 /* en */,
-				DD54E99724F7047C007F6C22 /* Base */,
 			);
 			name = redlands_temple;
 			sourceTree = "<group>";
@@ -2825,9 +2125,7 @@
 		DD54E76924F7047B007F6C22 /* nairobi_kenya_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E76A24F7047B007F6C22 /* zh-Hans */,
 				DD54E8B524F7047C007F6C22 /* en */,
-				DD54E99824F7047C007F6C22 /* Base */,
 			);
 			name = nairobi_kenya_temple;
 			sourceTree = "<group>";
@@ -2835,9 +2133,7 @@
 		DD54E76B24F7047B007F6C22 /* columbia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E76C24F7047B007F6C22 /* zh-Hans */,
 				DD54E8B624F7047C007F6C22 /* en */,
-				DD54E99924F7047C007F6C22 /* Base */,
 			);
 			name = columbia_temple;
 			sourceTree = "<group>";
@@ -2845,9 +2141,7 @@
 		DD54E76D24F7047B007F6C22 /* montevideo_uruguay_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E76E24F7047B007F6C22 /* zh-Hans */,
 				DD54E8B724F7047C007F6C22 /* en */,
-				DD54E99A24F7047C007F6C22 /* Base */,
 			);
 			name = montevideo_uruguay_temple;
 			sourceTree = "<group>";
@@ -2855,9 +2149,7 @@
 		DD54E76F24F7047B007F6C22 /* indianapolis_indiana_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E77024F7047B007F6C22 /* zh-Hans */,
 				DD54E8B824F7047C007F6C22 /* en */,
-				DD54E99B24F7047C007F6C22 /* Base */,
 			);
 			name = indianapolis_indiana_temple;
 			sourceTree = "<group>";
@@ -2865,9 +2157,7 @@
 		DD54E77124F7047B007F6C22 /* kirtland_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E77224F7047B007F6C22 /* zh-Hans */,
 				DD54E8B924F7047C007F6C22 /* en */,
-				DD54E99C24F7047C007F6C22 /* Base */,
 			);
 			name = kirtland_temple;
 			sourceTree = "<group>";
@@ -2875,9 +2165,7 @@
 		DD54E77324F7047B007F6C22 /* washington_county_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E77424F7047B007F6C22 /* zh-Hans */,
 				DD54E8BA24F7047C007F6C22 /* en */,
-				DD54E99D24F7047C007F6C22 /* Base */,
 			);
 			name = washington_county_utah_temple;
 			sourceTree = "<group>";
@@ -2885,9 +2173,7 @@
 		DD54E77524F7047B007F6C22 /* johannesburg_south_africa_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E77624F7047B007F6C22 /* zh-Hans */,
 				DD54E8BB24F7047C007F6C22 /* en */,
-				DD54E99E24F7047C007F6C22 /* Base */,
 			);
 			name = johannesburg_south_africa_temple;
 			sourceTree = "<group>";
@@ -2895,9 +2181,7 @@
 		DD54E77724F7047B007F6C22 /* mount_timpanogos_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E77824F7047B007F6C22 /* zh-Hans */,
 				DD54E8BC24F7047C007F6C22 /* en */,
-				DD54E99F24F7047C007F6C22 /* Base */,
 			);
 			name = mount_timpanogos_utah_temple;
 			sourceTree = "<group>";
@@ -2905,9 +2189,7 @@
 		DD54E77924F7047B007F6C22 /* san_pedro_sula_honduras_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E77A24F7047B007F6C22 /* zh-Hans */,
 				DD54E8BD24F7047C007F6C22 /* en */,
-				DD54E9A024F7047C007F6C22 /* Base */,
 			);
 			name = san_pedro_sula_honduras_temple;
 			sourceTree = "<group>";
@@ -2915,9 +2197,7 @@
 		DD54E77B24F7047B007F6C22 /* columbus_ohio_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E77C24F7047B007F6C22 /* zh-Hans */,
 				DD54E8BE24F7047C007F6C22 /* en */,
-				DD54E9A124F7047C007F6C22 /* Base */,
 			);
 			name = columbus_ohio_temple;
 			sourceTree = "<group>";
@@ -2925,9 +2205,7 @@
 		DD54E77D24F7047B007F6C22 /* billings_montana_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E77E24F7047B007F6C22 /* zh-Hans */,
 				DD54E8BF24F7047C007F6C22 /* en */,
-				DD54E9A224F7047C007F6C22 /* Base */,
 			);
 			name = billings_montana_temple;
 			sourceTree = "<group>";
@@ -2935,9 +2213,7 @@
 		DD54E77F24F7047B007F6C22 /* columbia_river_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E78024F7047B007F6C22 /* zh-Hans */,
 				DD54E8C024F7047C007F6C22 /* en */,
-				DD54E9A324F7047C007F6C22 /* Base */,
 			);
 			name = columbia_river_temple;
 			sourceTree = "<group>";
@@ -2945,9 +2221,7 @@
 		DD54E78124F7047B007F6C22 /* paris_france_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E78224F7047B007F6C22 /* zh-Hans */,
 				DD54E8C124F7047C007F6C22 /* en */,
-				DD54E9A424F7047C007F6C22 /* Base */,
 			);
 			name = paris_france_temple;
 			sourceTree = "<group>";
@@ -2955,9 +2229,7 @@
 		DD54E78324F7047B007F6C22 /* helsinki_finland_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E78424F7047B007F6C22 /* zh-Hans */,
 				DD54E8C224F7047C007F6C22 /* en */,
-				DD54E9A524F7047C007F6C22 /* Base */,
 			);
 			name = helsinki_finland_temple;
 			sourceTree = "<group>";
@@ -2965,9 +2237,7 @@
 		DD54E78524F7047B007F6C22 /* baton_rouge_louisiana_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E78624F7047B007F6C22 /* zh-Hans */,
 				DD54E8C324F7047C007F6C22 /* en */,
-				DD54E9A624F7047C007F6C22 /* Base */,
 			);
 			name = baton_rouge_louisiana_temple;
 			sourceTree = "<group>";
@@ -2975,9 +2245,7 @@
 		DD54E78724F7047B007F6C22 /* dubai_united_arab_emirates_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E78824F7047B007F6C22 /* zh-Hans */,
 				DD54E8C424F7047C007F6C22 /* en */,
-				DD54E9A724F7047C007F6C22 /* Base */,
 			);
 			name = dubai_united_arab_emirates_temple;
 			sourceTree = "<group>";
@@ -2985,9 +2253,7 @@
 		DD54E78924F7047B007F6C22 /* adelaide_australia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E78A24F7047B007F6C22 /* zh-Hans */,
 				DD54E8C524F7047C007F6C22 /* en */,
-				DD54E9A824F7047C007F6C22 /* Base */,
 			);
 			name = adelaide_australia_temple;
 			sourceTree = "<group>";
@@ -2995,9 +2261,7 @@
 		DD54E78B24F7047B007F6C22 /* tuxtla_guitierrez_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E78C24F7047B007F6C22 /* zh-Hans */,
 				DD54E8C624F7047C007F6C22 /* en */,
-				DD54E9A924F7047C007F6C22 /* Base */,
 			);
 			name = tuxtla_guitierrez_mexico_temple;
 			sourceTree = "<group>";
@@ -3005,9 +2269,7 @@
 		DD54E78D24F7047B007F6C22 /* tallahassee_florida_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E78E24F7047B007F6C22 /* zh-Hans */,
 				DD54E8C724F7047C007F6C22 /* en */,
-				DD54E9AA24F7047C007F6C22 /* Base */,
 			);
 			name = tallahassee_florida_temple;
 			sourceTree = "<group>";
@@ -3015,9 +2277,7 @@
 		DD54E78F24F7047B007F6C22 /* los_angeles_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E79024F7047B007F6C22 /* zh-Hans */,
 				DD54E8C824F7047C007F6C22 /* en */,
-				DD54E9AB24F7047C007F6C22 /* Base */,
 			);
 			name = los_angeles_temple;
 			sourceTree = "<group>";
@@ -3025,9 +2285,7 @@
 		DD54E79124F7047B007F6C22 /* mendoza_argentina_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E79224F7047B007F6C22 /* zh-Hans */,
 				DD54E8C924F7047C007F6C22 /* en */,
-				DD54E9AC24F7047C007F6C22 /* Base */,
 			);
 			name = mendoza_argentina_temple;
 			sourceTree = "<group>";
@@ -3035,9 +2293,7 @@
 		DD54E79324F7047B007F6C22 /* las_vegas_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E79424F7047B007F6C22 /* zh-Hans */,
 				DD54E8CA24F7047C007F6C22 /* en */,
-				DD54E9AD24F7047C007F6C22 /* Base */,
 			);
 			name = las_vegas_temple;
 			sourceTree = "<group>";
@@ -3045,9 +2301,7 @@
 		DD54E79524F7047B007F6C22 /* perth_australia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E79624F7047B007F6C22 /* zh-Hans */,
 				DD54E8CB24F7047C007F6C22 /* en */,
-				DD54E9AE24F7047C007F6C22 /* Base */,
 			);
 			name = perth_australia_temple;
 			sourceTree = "<group>";
@@ -3055,9 +2309,7 @@
 		DD54E79724F7047B007F6C22 /* rio_de_janeiro_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E79824F7047B007F6C22 /* zh-Hans */,
 				DD54E8CC24F7047C007F6C22 /* en */,
-				DD54E9AF24F7047C007F6C22 /* Base */,
 			);
 			name = rio_de_janeiro_brazil_temple;
 			sourceTree = "<group>";
@@ -3065,9 +2317,7 @@
 		DD54E79924F7047B007F6C22 /* memphis_tennessee_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E79A24F7047B007F6C22 /* zh-Hans */,
 				DD54E8CD24F7047C007F6C22 /* en */,
-				DD54E9B024F7047C007F6C22 /* Base */,
 			);
 			name = memphis_tennessee_temple;
 			sourceTree = "<group>";
@@ -3075,9 +2325,7 @@
 		DD54E79B24F7047B007F6C22 /* san_salvador_el_salvador_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E79C24F7047B007F6C22 /* zh-Hans */,
 				DD54E8CE24F7047C007F6C22 /* en */,
-				DD54E9B124F7047C007F6C22 /* Base */,
 			);
 			name = san_salvador_el_salvador_temple;
 			sourceTree = "<group>";
@@ -3085,9 +2333,7 @@
 		DD54E79D24F7047B007F6C22 /* lima_peru_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E79E24F7047B007F6C22 /* zh-Hans */,
 				DD54E8CF24F7047C007F6C22 /* en */,
-				DD54E9B224F7047C007F6C22 /* Base */,
 			);
 			name = lima_peru_temple;
 			sourceTree = "<group>";
@@ -3095,9 +2341,7 @@
 		DD54E79F24F7047B007F6C22 /* boston_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7A024F7047B007F6C22 /* zh-Hans */,
 				DD54E8D024F7047C007F6C22 /* en */,
-				DD54E9B324F7047C007F6C22 /* Base */,
 			);
 			name = boston_temple;
 			sourceTree = "<group>";
@@ -3105,9 +2349,7 @@
 		DD54E7A124F7047B007F6C22 /* palmyra_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7A224F7047B007F6C22 /* zh-Hans */,
 				DD54E8D124F7047C007F6C22 /* en */,
-				DD54E9B424F7047C007F6C22 /* Base */,
 			);
 			name = palmyra_temple;
 			sourceTree = "<group>";
@@ -3115,9 +2357,7 @@
 		DD54E7A324F7047B007F6C22 /* accra_ghana_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7A424F7047B007F6C22 /* zh-Hans */,
 				DD54E8D224F7047C007F6C22 /* en */,
-				DD54E9B524F7047C007F6C22 /* Base */,
 			);
 			name = accra_ghana_temple;
 			sourceTree = "<group>";
@@ -3125,9 +2365,7 @@
 		DD54E7A524F7047B007F6C22 /* laie_hawaii_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7A624F7047B007F6C22 /* zh-Hans */,
 				DD54E8D324F7047C007F6C22 /* en */,
-				DD54E9B624F7047C007F6C22 /* Base */,
 			);
 			name = laie_hawaii_temple;
 			sourceTree = "<group>";
@@ -3135,9 +2373,7 @@
 		DD54E7A724F7047B007F6C22 /* budapest_hungary_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7A824F7047B007F6C22 /* zh-Hans */,
 				DD54E8D424F7047C007F6C22 /* en */,
-				DD54E9B724F7047C007F6C22 /* Base */,
 			);
 			name = budapest_hungary_temple;
 			sourceTree = "<group>";
@@ -3145,9 +2381,7 @@
 		DD54E7A924F7047B007F6C22 /* medford_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7AA24F7047B007F6C22 /* zh-Hans */,
 				DD54E8D524F7047C007F6C22 /* en */,
-				DD54E9B824F7047C007F6C22 /* Base */,
 			);
 			name = medford_temple;
 			sourceTree = "<group>";
@@ -3155,9 +2389,7 @@
 		DD54E7AB24F7047B007F6C22 /* copenhagen_denmark_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7AC24F7047B007F6C22 /* zh-Hans */,
 				DD54E8D624F7047C007F6C22 /* en */,
-				DD54E9B924F7047C007F6C22 /* Base */,
 			);
 			name = copenhagen_denmark_temple;
 			sourceTree = "<group>";
@@ -3165,9 +2397,7 @@
 		DD54E7AD24F7047B007F6C22 /* boise_idaho_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7AE24F7047B007F6C22 /* zh-Hans */,
 				DD54E8D724F7047C007F6C22 /* en */,
-				DD54E9BA24F7047C007F6C22 /* Base */,
 			);
 			name = boise_idaho_temple;
 			sourceTree = "<group>";
@@ -3175,9 +2405,7 @@
 		DD54E7AF24F7047B007F6C22 /* sydney_australia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7B024F7047B007F6C22 /* zh-Hans */,
 				DD54E8D824F7047C007F6C22 /* en */,
-				DD54E9BB24F7047C007F6C22 /* Base */,
 			);
 			name = sydney_australia_temple;
 			sourceTree = "<group>";
@@ -3185,9 +2413,7 @@
 		DD54E7B124F7047B007F6C22 /* seoul_korea_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7B224F7047B007F6C22 /* zh-Hans */,
 				DD54E8D924F7047C007F6C22 /* en */,
-				DD54E9BC24F7047C007F6C22 /* Base */,
 			);
 			name = seoul_korea_temple;
 			sourceTree = "<group>";
@@ -3195,9 +2421,7 @@
 		DD54E7B324F7047B007F6C22 /* pittsburgh_pennsylvania_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7B424F7047B007F6C22 /* zh-Hans */,
 				DD54E8DA24F7047C007F6C22 /* en */,
-				DD54E9BD24F7047D007F6C22 /* Base */,
 			);
 			name = pittsburgh_pennsylvania_temple;
 			sourceTree = "<group>";
@@ -3205,9 +2429,7 @@
 		DD54E7B524F7047B007F6C22 /* london_england_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7B624F7047B007F6C22 /* zh-Hans */,
 				DD54E8DB24F7047C007F6C22 /* en */,
-				DD54E9BE24F7047D007F6C22 /* Base */,
 			);
 			name = london_england_temple;
 			sourceTree = "<group>";
@@ -3215,9 +2437,7 @@
 		DD54E7B724F7047B007F6C22 /* apia_samoa_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7B824F7047B007F6C22 /* zh-Hans */,
 				DD54E8DC24F7047C007F6C22 /* en */,
-				DD54E9BF24F7047D007F6C22 /* Base */,
 			);
 			name = apia_samoa_temple;
 			sourceTree = "<group>";
@@ -3225,9 +2445,7 @@
 		DD54E7B924F7047B007F6C22 /* davao_philippines_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7BA24F7047B007F6C22 /* zh-Hans */,
 				DD54E8DD24F7047C007F6C22 /* en */,
-				DD54E9C024F7047D007F6C22 /* Base */,
 			);
 			name = davao_philippines_temple;
 			sourceTree = "<group>";
@@ -3235,9 +2453,7 @@
 		DD54E7BB24F7047B007F6C22 /* brisbane_australia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7BC24F7047B007F6C22 /* zh-Hans */,
 				DD54E8DE24F7047C007F6C22 /* en */,
-				DD54E9C124F7047D007F6C22 /* Base */,
 			);
 			name = brisbane_australia_temple;
 			sourceTree = "<group>";
@@ -3245,9 +2461,7 @@
 		DD54E7BD24F7047B007F6C22 /* salta_argentina_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7BE24F7047B007F6C22 /* zh-Hans */,
 				DD54E8DF24F7047C007F6C22 /* en */,
-				DD54E9C224F7047D007F6C22 /* Base */,
 			);
 			name = salta_argentina_temple;
 			sourceTree = "<group>";
@@ -3255,9 +2469,7 @@
 		DD54E7BF24F7047B007F6C22 /* caracas_venezuela_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7C024F7047B007F6C22 /* zh-Hans */,
 				DD54E8E024F7047C007F6C22 /* en */,
-				DD54E9C324F7047D007F6C22 /* Base */,
 			);
 			name = caracas_venezuela_temple;
 			sourceTree = "<group>";
@@ -3265,9 +2477,7 @@
 		DD54E7C124F7047B007F6C22 /* cebu_philippines_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7C224F7047B007F6C22 /* zh-Hans */,
 				DD54E8E124F7047C007F6C22 /* en */,
-				DD54E9C424F7047D007F6C22 /* Base */,
 			);
 			name = cebu_philippines_temple;
 			sourceTree = "<group>";
@@ -3275,9 +2485,7 @@
 		DD54E7C324F7047B007F6C22 /* winnipeg_manitoba_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7C424F7047B007F6C22 /* zh-Hans */,
 				DD54E8E224F7047C007F6C22 /* en */,
-				DD54E9C524F7047D007F6C22 /* Base */,
 			);
 			name = winnipeg_manitoba_temple;
 			sourceTree = "<group>";
@@ -3285,9 +2493,7 @@
 		DD54E7C524F7047B007F6C22 /* concepcion_chile_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7C624F7047B007F6C22 /* zh-Hans */,
 				DD54E8E324F7047C007F6C22 /* en */,
-				DD54E9C624F7047D007F6C22 /* Base */,
 			);
 			name = concepcion_chile_temple;
 			sourceTree = "<group>";
@@ -3295,9 +2501,7 @@
 		DD54E7C724F7047B007F6C22 /* bengaluru_india_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7C824F7047B007F6C22 /* zh-Hans */,
 				DD54E8E424F7047C007F6C22 /* en */,
-				DD54E9C724F7047D007F6C22 /* Base */,
 			);
 			name = bengaluru_india_temple;
 			sourceTree = "<group>";
@@ -3305,9 +2509,7 @@
 		DD54E7C924F7047B007F6C22 /* bismark_north_dakota_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7CA24F7047B007F6C22 /* zh-Hans */,
 				DD54E8E524F7047C007F6C22 /* en */,
-				DD54E9C824F7047D007F6C22 /* Base */,
 			);
 			name = bismark_north_dakota_temple;
 			sourceTree = "<group>";
@@ -3315,9 +2517,7 @@
 		DD54E7CB24F7047B007F6C22 /* veracruz_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7CC24F7047B007F6C22 /* zh-Hans */,
 				DD54E8E624F7047C007F6C22 /* en */,
-				DD54E9C924F7047D007F6C22 /* Base */,
 			);
 			name = veracruz_mexico_temple;
 			sourceTree = "<group>";
@@ -3325,9 +2525,7 @@
 		DD54E7CD24F7047B007F6C22 /* anchorage_alaska_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7CE24F7047B007F6C22 /* zh-Hans */,
 				DD54E8E724F7047C007F6C22 /* en */,
-				DD54E9CA24F7047D007F6C22 /* Base */,
 			);
 			name = anchorage_alaska_temple;
 			sourceTree = "<group>";
@@ -3335,9 +2533,7 @@
 		DD54E7CF24F7047B007F6C22 /* raleigh_north_carolina_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7D024F7047B007F6C22 /* zh-Hans */,
 				DD54E8E824F7047C007F6C22 /* en */,
-				DD54E9CB24F7047D007F6C22 /* Base */,
 			);
 			name = raleigh_north_carolina_temple;
 			sourceTree = "<group>";
@@ -3345,9 +2541,7 @@
 		DD54E7D124F7047B007F6C22 /* winter_quarters_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7D224F7047B007F6C22 /* zh-Hans */,
 				DD54E8E924F7047C007F6C22 /* en */,
-				DD54E9CC24F7047D007F6C22 /* Base */,
 			);
 			name = winter_quarters_temple;
 			sourceTree = "<group>";
@@ -3355,9 +2549,7 @@
 		DD54E7D324F7047B007F6C22 /* barranquilla_columbia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7D424F7047B007F6C22 /* zh-Hans */,
 				DD54E8EA24F7047C007F6C22 /* en */,
-				DD54E9CD24F7047D007F6C22 /* Base */,
 			);
 			name = barranquilla_columbia_temple;
 			sourceTree = "<group>";
@@ -3365,9 +2557,7 @@
 		DD54E7D524F7047B007F6C22 /* taipei_taiwan_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7D624F7047B007F6C22 /* zh-Hans */,
 				DD54E8EB24F7047C007F6C22 /* en */,
-				DD54E9CE24F7047D007F6C22 /* Base */,
 			);
 			name = taipei_taiwan_temple;
 			sourceTree = "<group>";
@@ -3375,9 +2565,7 @@
 		DD54E7D724F7047B007F6C22 /* regina_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7D824F7047B007F6C22 /* zh-Hans */,
 				DD54E8EC24F7047C007F6C22 /* en */,
-				DD54E9CF24F7047D007F6C22 /* Base */,
 			);
 			name = regina_temple;
 			sourceTree = "<group>";
@@ -3385,9 +2573,7 @@
 		DD54E7D924F7047B007F6C22 /* richmond_virginia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7DA24F7047B007F6C22 /* zh-Hans */,
 				DD54E8ED24F7047C007F6C22 /* en */,
-				DD54E9D024F7047D007F6C22 /* Base */,
 			);
 			name = richmond_virginia_temple;
 			sourceTree = "<group>";
@@ -3395,9 +2581,7 @@
 		DD54E7DB24F7047B007F6C22 /* lagos_nigeria_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7DC24F7047B007F6C22 /* zh-Hans */,
 				DD54E8EE24F7047C007F6C22 /* en */,
-				DD54E9D124F7047D007F6C22 /* Base */,
 			);
 			name = lagos_nigeria_temple;
 			sourceTree = "<group>";
@@ -3405,9 +2589,7 @@
 		DD54E7DD24F7047B007F6C22 /* lisbon_portugal_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7DE24F7047B007F6C22 /* zh-Hans */,
 				DD54E8EF24F7047C007F6C22 /* en */,
-				DD54E9D224F7047D007F6C22 /* Base */,
 			);
 			name = lisbon_portugal_temple;
 			sourceTree = "<group>";
@@ -3415,9 +2597,7 @@
 		DD54E7DF24F7047B007F6C22 /* montreal_quebec_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7E024F7047B007F6C22 /* zh-Hans */,
 				DD54E8F024F7047C007F6C22 /* en */,
-				DD54E9D324F7047D007F6C22 /* Base */,
 			);
 			name = montreal_quebec_temple;
 			sourceTree = "<group>";
@@ -3425,9 +2605,7 @@
 		DD54E7E124F7047B007F6C22 /* denver_colorado_templ */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7E224F7047B007F6C22 /* zh-Hans */,
 				DD54E8F124F7047C007F6C22 /* en */,
-				DD54E9D424F7047D007F6C22 /* Base */,
 			);
 			name = denver_colorado_templ;
 			sourceTree = "<group>";
@@ -3435,9 +2613,7 @@
 		DD54E7E324F7047B007F6C22 /* seattle_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7E424F7047B007F6C22 /* zh-Hans */,
 				DD54E8F224F7047C007F6C22 /* en */,
-				DD54E9D524F7047D007F6C22 /* Base */,
 			);
 			name = seattle_temple;
 			sourceTree = "<group>";
@@ -3445,9 +2621,7 @@
 		DD54E7E524F7047B007F6C22 /* fresno_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7E624F7047B007F6C22 /* zh-Hans */,
 				DD54E8F324F7047C007F6C22 /* en */,
-				DD54E9D624F7047D007F6C22 /* Base */,
 			);
 			name = fresno_temple;
 			sourceTree = "<group>";
@@ -3455,9 +2629,7 @@
 		DD54E7E724F7047B007F6C22 /* salvador_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7E824F7047B007F6C22 /* zh-Hans */,
 				DD54E8F424F7047C007F6C22 /* en */,
-				DD54E9D724F7047D007F6C22 /* Base */,
 			);
 			name = salvador_brazil_temple;
 			sourceTree = "<group>";
@@ -3465,9 +2637,7 @@
 		DD54E7E924F7047B007F6C22 /* portland_oregon_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7EA24F7047B007F6C22 /* zh-Hans */,
 				DD54E8F524F7047C007F6C22 /* en */,
-				DD54E9D824F7047D007F6C22 /* Base */,
 			);
 			name = portland_oregon_temple;
 			sourceTree = "<group>";
@@ -3475,9 +2645,7 @@
 		DD54E7EB24F7047B007F6C22 /* hamilton_new_zealand_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7EC24F7047B007F6C22 /* zh-Hans */,
 				DD54E8F624F7047C007F6C22 /* en */,
-				DD54E9D924F7047D007F6C22 /* Base */,
 			);
 			name = hamilton_new_zealand_temple;
 			sourceTree = "<group>";
@@ -3485,9 +2653,7 @@
 		DD54E7ED24F7047B007F6C22 /* madrid_spain_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7EE24F7047B007F6C22 /* zh-Hans */,
 				DD54E8F724F7047C007F6C22 /* en */,
-				DD54E9DA24F7047D007F6C22 /* Base */,
 			);
 			name = madrid_spain_temple;
 			sourceTree = "<group>";
@@ -3495,9 +2661,7 @@
 		DD54E7EF24F7047B007F6C22 /* payson_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7F024F7047B007F6C22 /* zh-Hans */,
 				DD54E8F824F7047C007F6C22 /* en */,
-				DD54E9DB24F7047D007F6C22 /* Base */,
 			);
 			name = payson_utah_temple;
 			sourceTree = "<group>";
@@ -3505,9 +2669,7 @@
 		DD54E7F124F7047B007F6C22 /* cardston_alberta_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7F224F7047B007F6C22 /* zh-Hans */,
 				DD54E8F924F7047C007F6C22 /* en */,
-				DD54E9DC24F7047D007F6C22 /* Base */,
 			);
 			name = cardston_alberta_temple;
 			sourceTree = "<group>";
@@ -3515,9 +2677,7 @@
 		DD54E7F324F7047B007F6C22 /* lima_peru_los_olivos_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7F424F7047B007F6C22 /* zh-Hans */,
 				DD54E8FA24F7047C007F6C22 /* en */,
-				DD54E9DD24F7047D007F6C22 /* Base */,
 			);
 			name = lima_peru_los_olivos_temple;
 			sourceTree = "<group>";
@@ -3525,9 +2685,7 @@
 		DD54E7F524F7047B007F6C22 /* nukualofa_tonga_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7F624F7047B007F6C22 /* zh-Hans */,
 				DD54E8FB24F7047C007F6C22 /* en */,
-				DD54E9DE24F7047D007F6C22 /* Base */,
 			);
 			name = nukualofa_tonga_temple;
 			sourceTree = "<group>";
@@ -3535,9 +2693,7 @@
 		DD54E7F724F7047B007F6C22 /* campinas_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7F824F7047B007F6C22 /* zh-Hans */,
 				DD54E8FC24F7047C007F6C22 /* en */,
-				DD54E9DF24F7047D007F6C22 /* Base */,
 			);
 			name = campinas_brazil_temple;
 			sourceTree = "<group>";
@@ -3545,9 +2701,7 @@
 		DD54E7F924F7047B007F6C22 /* lubbock_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7FA24F7047B007F6C22 /* zh-Hans */,
 				DD54E8FD24F7047C007F6C22 /* en */,
-				DD54E9E024F7047D007F6C22 /* Base */,
 			);
 			name = lubbock_temple;
 			sourceTree = "<group>";
@@ -3555,9 +2709,7 @@
 		DD54E7FB24F7047B007F6C22 /* edmonton_alberta_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7FC24F7047B007F6C22 /* zh-Hans */,
 				DD54E8FE24F7047C007F6C22 /* en */,
-				DD54E9E124F7047D007F6C22 /* Base */,
 			);
 			name = edmonton_alberta_temple;
 			sourceTree = "<group>";
@@ -3565,9 +2717,7 @@
 		DD54E7FD24F7047B007F6C22 /* brigham_city_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E7FE24F7047B007F6C22 /* zh-Hans */,
 				DD54E8FF24F7047C007F6C22 /* en */,
-				DD54E9E224F7047D007F6C22 /* Base */,
 			);
 			name = brigham_city_utah_temple;
 			sourceTree = "<group>";
@@ -3575,9 +2725,7 @@
 		DD54E7FF24F7047B007F6C22 /* monticello_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E80024F7047B007F6C22 /* zh-Hans */,
 				DD54E90024F7047C007F6C22 /* en */,
-				DD54E9E324F7047D007F6C22 /* Base */,
 			);
 			name = monticello_utah_temple;
 			sourceTree = "<group>";
@@ -3585,9 +2733,7 @@
 		DD54E80124F7047B007F6C22 /* quito_ecuador_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E80224F7047B007F6C22 /* zh-Hans */,
 				DD54E90124F7047C007F6C22 /* en */,
-				DD54E9E424F7047D007F6C22 /* Base */,
 			);
 			name = quito_ecuador_temple;
 			sourceTree = "<group>";
@@ -3595,9 +2741,7 @@
 		DD54E80324F7047B007F6C22 /* kinshasa_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E80424F7047B007F6C22 /* zh-Hans */,
 				DD54E90224F7047C007F6C22 /* en */,
-				DD54E9E524F7047D007F6C22 /* Base */,
 			);
 			name = kinshasa_temple;
 			sourceTree = "<group>";
@@ -3605,9 +2749,7 @@
 		DD54E80524F7047B007F6C22 /* sacramento_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E80624F7047B007F6C22 /* zh-Hans */,
 				DD54E90324F7047C007F6C22 /* en */,
-				DD54E9E624F7047D007F6C22 /* Base */,
 			);
 			name = sacramento_temple;
 			sourceTree = "<group>";
@@ -3615,9 +2757,7 @@
 		DD54E80724F7047B007F6C22 /* houston_texas_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E80824F7047B007F6C22 /* zh-Hans */,
 				DD54E90424F7047C007F6C22 /* en */,
-				DD54E9E724F7047D007F6C22 /* Base */,
 			);
 			name = houston_texas_temple;
 			sourceTree = "<group>";
@@ -3625,9 +2765,7 @@
 		DD54E80924F7047B007F6C22 /* alabang_philippines_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E80A24F7047B007F6C22 /* zh-Hans */,
 				DD54E90524F7047C007F6C22 /* en */,
-				DD54E9E824F7047D007F6C22 /* Base */,
 			);
 			name = alabang_philippines_temple;
 			sourceTree = "<group>";
@@ -3635,9 +2773,7 @@
 		DD54E80B24F7047B007F6C22 /* the_hague_netherlands_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E80C24F7047B007F6C22 /* zh-Hans */,
 				DD54E90624F7047C007F6C22 /* en */,
-				DD54E9E924F7047D007F6C22 /* Base */,
 			);
 			name = the_hague_netherlands_temple;
 			sourceTree = "<group>";
@@ -3645,9 +2781,7 @@
 		DD54E80D24F7047B007F6C22 /* rexburg_idaho_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E80E24F7047B007F6C22 /* zh-Hans */,
 				DD54E90724F7047C007F6C22 /* en */,
-				DD54E9EA24F7047D007F6C22 /* Base */,
 			);
 			name = rexburg_idaho_temple;
 			sourceTree = "<group>";
@@ -3655,9 +2789,7 @@
 		DD54E80F24F7047B007F6C22 /* porto_alegre_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E81024F7047B007F6C22 /* zh-Hans */,
 				DD54E90824F7047C007F6C22 /* en */,
-				DD54E9EB24F7047D007F6C22 /* Base */,
 			);
 			name = porto_alegre_brazil_temple;
 			sourceTree = "<group>";
@@ -3665,9 +2797,7 @@
 		DD54E81124F7047B007F6C22 /* shanghai_china_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E81224F7047B007F6C22 /* zh-Hans */,
 				DD54E90924F7047C007F6C22 /* en */,
-				DD54E9EC24F7047D007F6C22 /* Base */,
 			);
 			name = shanghai_china_temple;
 			sourceTree = "<group>";
@@ -3675,9 +2805,7 @@
 		DD54E81324F7047B007F6C22 /* sapporo_japan_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E81424F7047B007F6C22 /* zh-Hans */,
 				DD54E90A24F7047C007F6C22 /* en */,
-				DD54E9ED24F7047D007F6C22 /* Base */,
 			);
 			name = sapporo_japan_temple;
 			sourceTree = "<group>";
@@ -3685,9 +2813,7 @@
 		DD54E81524F7047B007F6C22 /* manhattan_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E81624F7047B007F6C22 /* zh-Hans */,
 				DD54E90B24F7047C007F6C22 /* en */,
-				DD54E9EE24F7047D007F6C22 /* Base */,
 			);
 			name = manhattan_temple;
 			sourceTree = "<group>";
@@ -3695,9 +2821,7 @@
 		DD54E81724F7047B007F6C22 /* taylorsville_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E81824F7047B007F6C22 /* zh-Hans */,
 				DD54E90C24F7047C007F6C22 /* en */,
-				DD54E9EF24F7047D007F6C22 /* Base */,
 			);
 			name = taylorsville_utah_temple;
 			sourceTree = "<group>";
@@ -3705,9 +2829,7 @@
 		DD54E81924F7047B007F6C22 /* jordan_river_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E81A24F7047B007F6C22 /* zh-Hans */,
 				DD54E90D24F7047C007F6C22 /* en */,
-				DD54E9F024F7047D007F6C22 /* Base */,
 			);
 			name = jordan_river_temple;
 			sourceTree = "<group>";
@@ -3715,9 +2837,7 @@
 		DD54E81B24F7047B007F6C22 /* ciudad_juarez_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E81C24F7047B007F6C22 /* zh-Hans */,
 				DD54E90E24F7047C007F6C22 /* en */,
-				DD54E9F124F7047D007F6C22 /* Base */,
 			);
 			name = ciudad_juarez_mexico_temple;
 			sourceTree = "<group>";
@@ -3725,9 +2845,7 @@
 		DD54E81D24F7047B007F6C22 /* halifax_nova_scotia_lds_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E81E24F7047B007F6C22 /* zh-Hans */,
 				DD54E90F24F7047C007F6C22 /* en */,
-				DD54E9F224F7047D007F6C22 /* Base */,
 			);
 			name = halifax_nova_scotia_lds_temple;
 			sourceTree = "<group>";
@@ -3735,9 +2853,7 @@
 		DD54E81F24F7047B007F6C22 /* arequipa_peru_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E82024F7047B007F6C22 /* zh-Hans */,
 				DD54E91024F7047C007F6C22 /* en */,
-				DD54E9F324F7047D007F6C22 /* Base */,
 			);
 			name = arequipa_peru_temple;
 			sourceTree = "<group>";
@@ -3745,9 +2861,7 @@
 		DD54E82124F7047B007F6C22 /* coban_guatemala_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E82224F7047B007F6C22 /* zh-Hans */,
 				DD54E91124F7047C007F6C22 /* en */,
-				DD54E9F424F7047D007F6C22 /* Base */,
 			);
 			name = coban_guatemala_temple;
 			sourceTree = "<group>";
@@ -3755,9 +2869,7 @@
 		DD54E82324F7047B007F6C22 /* syracuse_utah_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E82424F7047B007F6C22 /* zh-Hans */,
 				DD54E91224F7047C007F6C22 /* en */,
-				DD54E9F524F7047D007F6C22 /* Base */,
 			);
 			name = syracuse_utah_temple;
 			sourceTree = "<group>";
@@ -3765,9 +2877,7 @@
 		DD54E82524F7047B007F6C22 /* guayaquil_ecuador_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E82624F7047C007F6C22 /* zh-Hans */,
 				DD54E91324F7047C007F6C22 /* en */,
-				DD54E9F624F7047D007F6C22 /* Base */,
 			);
 			name = guayaquil_ecuador_temple;
 			sourceTree = "<group>";
@@ -3775,9 +2885,7 @@
 		DD54E82724F7047C007F6C22 /* aba_nigeria_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E82824F7047C007F6C22 /* zh-Hans */,
 				DD54E91424F7047C007F6C22 /* en */,
-				DD54E9F724F7047D007F6C22 /* Base */,
 			);
 			name = aba_nigeria_temple;
 			sourceTree = "<group>";
@@ -3785,9 +2893,7 @@
 		DD54E82924F7047C007F6C22 /* gilbert_arizona_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E82A24F7047C007F6C22 /* zh-Hans */,
 				DD54E91524F7047C007F6C22 /* en */,
-				DD54E9F824F7047D007F6C22 /* Base */,
 			);
 			name = gilbert_arizona_temple;
 			sourceTree = "<group>";
@@ -3795,9 +2901,7 @@
 		DD54E82B24F7047C007F6C22 /* san_juan_puerto_rico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E82C24F7047C007F6C22 /* zh-Hans */,
 				DD54E91624F7047C007F6C22 /* en */,
-				DD54E9F924F7047D007F6C22 /* Base */,
 			);
 			name = san_juan_puerto_rico_temple;
 			sourceTree = "<group>";
@@ -3805,9 +2909,7 @@
 		DD54E82D24F7047C007F6C22 /* st_paul_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E82E24F7047C007F6C22 /* zh-Hans */,
 				DD54E91724F7047C007F6C22 /* en */,
-				DD54E9FA24F7047D007F6C22 /* Base */,
 			);
 			name = st_paul_temple;
 			sourceTree = "<group>";
@@ -3815,9 +2917,7 @@
 		DD54E82F24F7047C007F6C22 /* provo_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E83024F7047C007F6C22 /* zh-Hans */,
 				DD54E91824F7047C007F6C22 /* en */,
-				DD54E9FB24F7047D007F6C22 /* Base */,
 			);
 			name = provo_temple;
 			sourceTree = "<group>";
@@ -3825,9 +2925,7 @@
 		DD54E83124F7047C007F6C22 /* oaxaca_mexico_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E83224F7047C007F6C22 /* zh-Hans */,
 				DD54E91924F7047C007F6C22 /* en */,
-				DD54E9FC24F7047D007F6C22 /* Base */,
 			);
 			name = oaxaca_mexico_temple;
 			sourceTree = "<group>";
@@ -3835,9 +2933,7 @@
 		DD54E83324F7047C007F6C22 /* phnom_penh_cambodia_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E83424F7047C007F6C22 /* zh-Hans */,
 				DD54E91A24F7047C007F6C22 /* en */,
-				DD54E9FD24F7047D007F6C22 /* Base */,
 			);
 			name = phnom_penh_cambodia_temple;
 			sourceTree = "<group>";
@@ -3845,9 +2941,7 @@
 		DD54E83524F7047C007F6C22 /* brasilia_brazil_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E83624F7047C007F6C22 /* zh-Hans */,
 				DD54E91B24F7047C007F6C22 /* en */,
-				DD54E9FE24F7047D007F6C22 /* Base */,
 			);
 			name = brasilia_brazil_temple;
 			sourceTree = "<group>";
@@ -3855,9 +2949,7 @@
 		DD54E83724F7047C007F6C22 /* oklahoma_city_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E83824F7047C007F6C22 /* zh-Hans */,
 				DD54E91C24F7047C007F6C22 /* en */,
-				DD54E9FF24F7047D007F6C22 /* Base */,
 			);
 			name = oklahoma_city_temple;
 			sourceTree = "<group>";
@@ -3865,9 +2957,7 @@
 		DD54E83924F7047C007F6C22 /* old_nauvoo_temple */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD54E83A24F7047C007F6C22 /* zh-Hans */,
 				DD54E91D24F7047C007F6C22 /* en */,
-				DD54EA0024F7047D007F6C22 /* Base */,
 			);
 			name = old_nauvoo_temple;
 			sourceTree = "<group>";

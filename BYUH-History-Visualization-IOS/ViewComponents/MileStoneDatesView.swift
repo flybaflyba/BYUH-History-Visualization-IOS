@@ -42,6 +42,7 @@ struct MileStoneDatesView: View {
             List {
                 VStack {
                     //ForEach() { in }
+                    Text(" ")
                     Text(oneTempleInfo)
                         .multilineTextAlignment(.center)
                    

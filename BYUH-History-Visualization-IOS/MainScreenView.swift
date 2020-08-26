@@ -410,7 +410,7 @@ struct SpiralView: View {
                 }
                 //}
                 
-                if sharedValues.singleTempleShow {
+                if sharedValues.singleTempleShow && temple.tapped {
                     Text(sharedValues.currentTappedTempleName)
                         .position(x: temple.x, y: temple.y - temple.size * 0.55)
                 }

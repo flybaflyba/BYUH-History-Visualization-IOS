@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "february_space_seven_comma_space_one_nine_two_one.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

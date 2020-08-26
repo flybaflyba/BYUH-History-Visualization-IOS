@@ -58,8 +58,8 @@ struct SliderView: View {
                             sharedValues.animationInProgress = true
                             //SwiftUI.withAnimation(.default) {
                             
-                            if sharedValues.sliderProgress + 30 >= 6980 {
-                                sharedValues.sliderProgress = 6980
+                            if sharedValues.sliderProgress + 30 >= 4550 {
+                                sharedValues.sliderProgress = 4550
                             } else {
                                 sharedValues.sliderProgress += 30
                             }
@@ -198,7 +198,7 @@ struct MySlider: View {
                     //print(imageSpiralViewModel.onScreenTemples.count)
                     
                 }),
-               in: 180...6980, step: 1)
+               in: 180...4550, step: 1)
             //.background(Color.red)
         }
 }

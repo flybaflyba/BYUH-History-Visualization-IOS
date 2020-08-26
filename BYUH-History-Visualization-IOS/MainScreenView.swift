@@ -576,8 +576,8 @@ struct SpiralView: View {
     }
     
     func SpiralAntiClockwise(speed: CGFloat) {
-        if sharedValues.sliderProgress + 1 >= 6980 {
-            sharedValues.sliderProgress = 6980
+        if sharedValues.sliderProgress + 1 >= 4550 {
+            sharedValues.sliderProgress = 4550
         } else {
             sharedValues.sliderProgress += abs(speed) / 3
         }

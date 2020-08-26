@@ -39,12 +39,22 @@ struct MileStoneDatesView: View {
 //            }
             
             Text(" ")
+            
+            if sharedValues.currentDevice == .phone {
+                
+            } else {
+                Text(" ")
+                Text(" ")
+                Text(" ")
+            }
+            
             List {
                 VStack {
                     //ForEach() { in }
                     Text(" ")
                     Text(oneTempleInfo)
                         .multilineTextAlignment(.center)
+                        
                    
                 }
             }

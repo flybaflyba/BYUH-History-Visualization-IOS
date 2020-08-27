@@ -19,6 +19,7 @@ CFBundleDisplayName = "EnglishName";
 "announced.temples.lower.case" = "announced temples";
 "temples.under.construction.lower.case" = "temples under construction";
 "dismiss" = "Dismiss";
+"events" = "Events";
 
 // YeasDisplayView
 //"future.temples" = "Future Temples";

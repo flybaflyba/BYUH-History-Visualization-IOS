@@ -23,52 +23,15 @@ struct YearPicker: View {
         
         return GeometryReader { geometry in
             VStack {
-                //Spacer()
+                Spacer()
+
                 
-//                Image(systemName: "arrow.down")
-//                    .font(.system(size: geometry.size.width * 0.1))
-//                    .onTapGesture {
-//                        sharedValues.showYearPicker.toggle()
-//                        print("sheet gone clicking")
-//                    }
-                
-//                ZStack {
-//                    RoundedRectangle(cornerRadius: 5)
-//                        .size(width: geometry.size.width * 0.1, height: geometry.size.width * 0.1)
-//                    Text("View")
-//                }
-//                .onTapGesture {
-//                    sharedValues.showYearPicker.toggle()
-//                    print("sheet gone clicking")
-//                }
-                
-                if sharedValues.selectedYearIndex == templeYears.count - 1 {
-                    Text("announced.temples")
-                } else if sharedValues.selectedYearIndex == templeYears.count - 2 {
-                    Text("temples.under.construction")
-                } else {
-                    HStack {
-                        if deviceLanguage == "zh" {
-                            Text("\(ImageSpiral.templeYears[sharedValues.selectedYearIndex])")
-                            + Text("temples.dedicated.in")
-                        } else {
-                            Text("temples.dedicated.in")
-                            Text("\(ImageSpiral.templeYears[sharedValues.selectedYearIndex])")
-                        }
-                        
-                    }
+                HStack {
+                    Text("\(ImageSpiral.templeYears[sharedValues.selectedYearIndex])")
+                    Text("events")
                 }
-                
-                //if sharedValues.selectedYearIndex != -1 {
-                // we cannot use this way to do if statement, because strings wont localize under this way
-//                    Text(sharedValues.selectedYearIndex == templeYears.count - 1 ? "announced.temples" :
-//                        sharedValues.selectedYearIndex == templeYears.count - 2 ? "temples.under.construction" : "temples.dedicated.in" + " \(ImageSpiral.templeYears[sharedValues.selectedYearIndex])")
-                //} else {
-                    //Text("Temples dedicated in 1836")
-                //}
-                
-                //Spacer()
-                
+                .padding()
+
                 Picker(selection: $sharedValues.selectedYearIndex, label: Text("")) {
                             ForEach(0 ..< templeYears.count) {
                                 if self.templeYears[$0] == "0000" {
@@ -83,10 +46,7 @@ struct YearPicker: View {
                             }
                          }
                 .labelsHidden()
-                //.frame(width: geometry.size.width * 1, height: geometry.size.height * 0.5, alignment: Alignment.center)
-                //.background(Color.red)
-                //Spacer()
-                
+
                 HStack {
                     Spacer()
                     Button(action: {
@@ -110,6 +70,7 @@ struct YearPicker: View {
                     Spacer()
                 }
            
+                Spacer()
                 
             }
             //.background(Color.gray)

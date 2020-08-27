@@ -158,9 +158,9 @@
 		DD54EA0324F7047D007F6C22 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = DD54E66224F70473007F6C22 /* Localizable.strings */; };
 		DD54EA0424F7047D007F6C22 /* YearPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD54E66324F70473007F6C22 /* YearPicker.swift */; };
 		DD54EA0524F7047D007F6C22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD54E66424F70478007F6C22 /* Assets.xcassets */; };
-		DD54EA0624F7047D007F6C22 /* templeFilesNames in Resources */ = {isa = PBXBuildFile; fileRef = DD54E66524F70478007F6C22 /* templeFilesNames */; };
+		DD54EA0624F7047D007F6C22 /* FilesNamesFile in Resources */ = {isa = PBXBuildFile; fileRef = DD54E66524F70478007F6C22 /* FilesNamesFile */; };
 		DD54EA0724F7047D007F6C22 /* Sprial.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD54E66624F70478007F6C22 /* Sprial.swift */; };
-		DD54EA0824F7047D007F6C22 /* templeLinks in Resources */ = {isa = PBXBuildFile; fileRef = DD54E66724F70479007F6C22 /* templeLinks */; };
+		DD54EA0824F7047D007F6C22 /* LinksFile in Resources */ = {isa = PBXBuildFile; fileRef = DD54E66724F70479007F6C22 /* LinksFile */; };
 		DD54EA0924F7047D007F6C22 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD54E66924F70479007F6C22 /* AboutView.swift */; };
 		DD54EA0A24F7047D007F6C22 /* YearDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD54E66A24F70479007F6C22 /* YearDisplayView.swift */; };
 		DD54EA0B24F7047D007F6C22 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD54E66B24F70479007F6C22 /* SliderView.swift */; };
@@ -172,7 +172,7 @@
 		DD54EA1124F7047D007F6C22 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD54E67124F70479007F6C22 /* SceneDelegate.swift */; };
 		DD54EA1224F7047D007F6C22 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = DD54E67224F70479007F6C22 /* InfoPlist.strings */; };
 		DD54EA1324F7047D007F6C22 /* SharedValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD54E67324F70479007F6C22 /* SharedValues.swift */; };
-		DD54EAF724F7047E007F6C22 /* templeNamesYears in Resources */ = {isa = PBXBuildFile; fileRef = DD54EA0124F7047D007F6C22 /* templeNamesYears */; };
+		DD54EAF724F7047E007F6C22 /* NamesYearsFile in Resources */ = {isa = PBXBuildFile; fileRef = DD54EA0124F7047D007F6C22 /* NamesYearsFile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -328,9 +328,9 @@
 		DD54E66224F70473007F6C22 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		DD54E66324F70473007F6C22 /* YearPicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YearPicker.swift; sourceTree = "<group>"; };
 		DD54E66424F70478007F6C22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DD54E66524F70478007F6C22 /* templeFilesNames */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = templeFilesNames; sourceTree = "<group>"; };
+		DD54E66524F70478007F6C22 /* FilesNamesFile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FilesNamesFile; sourceTree = "<group>"; };
 		DD54E66624F70478007F6C22 /* Sprial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sprial.swift; sourceTree = "<group>"; };
-		DD54E66724F70479007F6C22 /* templeLinks */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = templeLinks; sourceTree = "<group>"; };
+		DD54E66724F70479007F6C22 /* LinksFile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LinksFile; sourceTree = "<group>"; };
 		DD54E66924F70479007F6C22 /* AboutView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		DD54E66A24F70479007F6C22 /* YearDisplayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YearDisplayView.swift; sourceTree = "<group>"; };
 		DD54E66B24F70479007F6C22 /* SliderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
@@ -342,7 +342,7 @@
 		DD54E67124F70479007F6C22 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DD54E67224F70479007F6C22 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
 		DD54E67324F70479007F6C22 /* SharedValues.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SharedValues.swift; sourceTree = "<group>"; };
-		DD54EA0124F7047D007F6C22 /* templeNamesYears */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = templeNamesYears; sourceTree = "<group>"; };
+		DD54EA0124F7047D007F6C22 /* NamesYearsFile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NamesYearsFile; sourceTree = "<group>"; };
 		DD54EAF824F70A88007F6C22 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -357,7 +357,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DD45A5DE24F72730000AB5A1 /* AllTempleInfo */ = {
+		DD45A5DE24F72730000AB5A1 /* AllInfoFiles */ = {
 			isa = PBXGroup;
 			children = (
 				DD45A5DF24F72730000AB5A1 /* december_space_one_seven_comma_space_one_nine_five_eight */,
@@ -506,7 +506,7 @@
 				DD45A66E24F72730000AB5A1 /* june_space_three_comma_space_one_nine_six_one */,
 				DD45A66F24F72730000AB5A1 /* february_space_one_two_comma_space_one_nine_five_five */,
 			);
-			path = AllTempleInfo;
+			path = AllInfoFiles;
 			sourceTree = "<group>";
 		};
 		DD54E64124F70416007F6C22 = {
@@ -537,10 +537,10 @@
 				DD54E66824F70479007F6C22 /* ViewComponents */,
 				DD54E66F24F70479007F6C22 /* MainScreenView.swift */,
 				DD54E66324F70473007F6C22 /* YearPicker.swift */,
-				DD45A5DE24F72730000AB5A1 /* AllTempleInfo */,
-				DD54E66524F70478007F6C22 /* templeFilesNames */,
-				DD54E66724F70479007F6C22 /* templeLinks */,
-				DD54EA0124F7047D007F6C22 /* templeNamesYears */,
+				DD45A5DE24F72730000AB5A1 /* AllInfoFiles */,
+				DD54E66524F70478007F6C22 /* FilesNamesFile */,
+				DD54E66724F70479007F6C22 /* LinksFile */,
+				DD54EA0124F7047D007F6C22 /* NamesYearsFile */,
 				DD54E66224F70473007F6C22 /* Localizable.strings */,
 				DD54E67224F70479007F6C22 /* InfoPlist.strings */,
 				DD54E65824F70417007F6C22 /* LaunchScreen.storyboard */,
@@ -650,7 +650,7 @@
 				DD45A6EE24F72730000AB5A1 /* march_space_two_six_comma_space_two_zero_one_one in Resources */,
 				DD45A6A124F72730000AB5A1 /* january_space_one_one_comma_space_two_zero_zero_one in Resources */,
 				DD45A6EB24F72730000AB5A1 /* november_space_three_comma_space_two_zero_zero_one in Resources */,
-				DD54EA0824F7047D007F6C22 /* templeLinks in Resources */,
+				DD54EA0824F7047D007F6C22 /* LinksFile in Resources */,
 				DD45A6CC24F72730000AB5A1 /* february_space_six_dash_one_two_comma_space_two_zero_one_five in Resources */,
 				DD45A67824F72730000AB5A1 /* october_space_one_eight_comma_space_two_zero_one_two in Resources */,
 				DD45A6D724F72730000AB5A1 /* july_space_two_seven_comma_space_two_zero_zero_nine_duplicate_zero in Resources */,
@@ -707,7 +707,7 @@
 				DD45A68A24F72730000AB5A1 /* december_space_one_two_comma_space_one_eight_five_zero in Resources */,
 				DD45A6C024F72730000AB5A1 /* april_space_four_comma_space_two_zero_zero_nine in Resources */,
 				DD45A6F324F72730000AB5A1 /* january_space_one_nine_five_six in Resources */,
-				DD54EAF724F7047E007F6C22 /* templeNamesYears in Resources */,
+				DD54EAF724F7047E007F6C22 /* NamesYearsFile in Resources */,
 				DD45A6D124F72730000AB5A1 /* september_space_eight_comma_space_two_zero_one_three in Resources */,
 				DD45A6A224F72730000AB5A1 /* may_space_one_two_comma_space_two_zero_one_five in Resources */,
 				DD45A6A524F72730000AB5A1 /* june_space_one_nine_eight_eight in Resources */,
@@ -749,7 +749,7 @@
 				DD45A6B324F72730000AB5A1 /* august_space_one_nine_comma_space_two_zero_zero_five in Resources */,
 				DD45A67D24F72730000AB5A1 /* january_space_two_zero_one_two in Resources */,
 				DD45A67224F72730000AB5A1 /* march_space_eight_dash_one_one_comma_space_two_zero_one_two in Resources */,
-				DD54EA0624F7047D007F6C22 /* templeFilesNames in Resources */,
+				DD54EA0624F7047D007F6C22 /* FilesNamesFile in Resources */,
 				DD45A6A024F72730000AB5A1 /* may_space_two_comma_space_two_zero_one_zero in Resources */,
 				DD45A68324F72730000AB5A1 /* december_space_one_seven_comma_space_two_zero_zero_eight in Resources */,
 				DD45A69D24F72730000AB5A1 /* november_space_one_zero_comma_space_two_zero_one_five in Resources */,

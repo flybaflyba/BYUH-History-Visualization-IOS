@@ -376,7 +376,7 @@ class ImageSpiral: ObservableObject {
     static func readTempleNamesFromFile() -> Array<String> {
         
         //var templeNames: Array<String> = Array<String>()
-        var allTempleNames: Array<String> = linesFromResourceForced(fileName: "templeFilesNames")
+        var allTempleNames: Array<String> = linesFromResourceForced(fileName: "FilesNamesFile")
         
         //print(allTempleNames)
         
@@ -395,7 +395,7 @@ class ImageSpiral: ObservableObject {
     }
     
     static func readTempleNameYearFromFile() -> Array<Array<String>> {
-        var allTempleNamesYears: Array<String> = linesFromResourceForced(fileName: "templeNamesYears")
+        var allTempleNamesYears: Array<String> = linesFromResourceForced(fileName: "NamesYearsFile")
         allTempleNamesYears.removeLast()
         allTempleNamesYears.removeLast()
         // we do remove lastt twice, becasue there is shanghai temple in the file,
@@ -460,7 +460,7 @@ class ImageSpiral: ObservableObject {
     static func readTempleLinksFromFile() -> Array<String> {
         
         //var templeNames: Array<String> = Array<String>()
-        var allTempleLinks: Array<String> = linesFromResourceForced(fileName: "templeLinks")
+        var allTempleLinks: Array<String> = linesFromResourceForced(fileName: "LinksFile")
         allTempleLinks.removeLast()
         print("allTempleLinks length when read is \(allTempleLinks.count)")
         return allTempleLinks

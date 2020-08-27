@@ -6,10 +6,8 @@
   Copyright © 2020 Litian Zhang. All rights reserved.
 */
 
-CFBundleDisplayName = "EnglishName";
-
 // MainScreenView
-"app.title" = "Temples Timeline";
+"app.title" = "BYU-H History";
 
 // YearPicker
 "announced.temples" = "Announced Temples";
@@ -52,7 +50,8 @@ CFBundleDisplayName = "EnglishName";
 
 // AboutView
 "about.content" = "Programming by Litian Zhang under the supervision of Dr. Geoffrey Draper at Brigham Young University--Hawaii. \r\rThis app is a research project funded by Brigham Young University--Hawaii, however the contents are the responsibility of its developers. ";
-
+"app.website" = "App Website";
+"app.website.url" = "https://latterdaytemples.litianzhang.com/apple-english/";
 
 
 

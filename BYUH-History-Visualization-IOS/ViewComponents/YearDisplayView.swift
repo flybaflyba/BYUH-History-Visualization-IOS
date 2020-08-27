@@ -37,7 +37,7 @@ struct YearDisplayView: View {
             if sharedValues.sliderProgress >= 6600 {
                 Text("announced.temples")
             } else if sharedValues.sliderProgress <= 180 {
-                Text("first.temple")
+                Text("first.event")
             } else if endYear != "0000" && endYear != "1111" {
                 Text("\(startYear) --- \(endYear)")
             } else {

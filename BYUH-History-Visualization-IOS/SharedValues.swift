@@ -159,8 +159,8 @@ class SharedValues: ObservableObject {
     @Published var lastSliderProgress: CGFloat = 4550
     //@Published var bindedValueForAnimatableModifier: CGFloat = 3000
     
-    @Published var startYear: String = "2002"
-    @Published var endYear: String = "2017"
+    @Published var startYear: String = "2011"
+    @Published var endYear: String = "2015"
     
     @Published var modeTest: String = "default"
     

@@ -32,6 +32,9 @@ struct MainScreenView: View {
         var body: some View {
             Button(action: {
                 sharedValues.showYearPicker.toggle()
+                
+                print("selectedYearIndex is \(sharedValues.selectedYearIndex)")
+                
                     }) {
                 ZStack {
                     Rectangle().foregroundColor(Color.green.opacity(0))

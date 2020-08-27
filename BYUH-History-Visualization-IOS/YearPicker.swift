@@ -100,7 +100,7 @@ struct YearPicker: View {
                     Button(action: {
                         sharedValues.showYearPicker.toggle()
                         sharedValues.yearPickerSet = true
-                        let newThetaFromYearPicker: CGFloat = ImageSpiral.templeYearsThetaFriends[sharedValues.selectedYearIndex] + 20
+                        let newThetaFromYearPicker: CGFloat = ImageSpiral.templeYearsThetaFriends[sharedValues.selectedYearIndex] + 150
                         sharedValues.sliderProgress = newThetaFromYearPicker
                         imageSpiralViewModel.getNewTheta(newTheta: newThetaFromYearPicker)
                         imageSpiralViewModel.updateOnScreenTemples(newTheta: newThetaFromYearPicker)

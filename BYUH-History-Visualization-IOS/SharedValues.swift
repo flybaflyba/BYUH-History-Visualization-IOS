@@ -177,7 +177,7 @@ class SharedValues: ObservableObject {
     // these two value is binded to year picker in yearpickerview and left button on spiralview navigation bar
     // year is just 1836 + index 
     @Published var showYearPicker = false
-    @Published var selectedYearIndex = 52
+    @Published var selectedYearIndex = 49
     @Published var yearPickerSet = false
     
     @Published var touchScreenLastX: CGFloat = 0

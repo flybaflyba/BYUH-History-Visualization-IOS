@@ -54,7 +54,7 @@ struct MileStoneDatesView: View {
                     Text(" ")
                     Text(oneTempleInfo)
                         .multilineTextAlignment(.center)
-                        
+                        .padding(sharedValues.currentDevice == .phone ? 5 : 20)
                    
                 }
             }

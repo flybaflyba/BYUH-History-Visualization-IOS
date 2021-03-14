@@ -22,7 +22,7 @@ struct AboutViewMain: View {
     @EnvironmentObject var sharedValues: SharedValues
     @Environment(\.colorScheme) var colorScheme
     
-    let url = NSLocalizedString("app.website.url", comment: "app website url")
+    let url = NSLocalizedString("school.website.url", comment: "school website url")
     
     var body: some View {
         ZStack {
@@ -35,6 +35,14 @@ struct AboutViewMain: View {
                     Text("  ")
                     Text("about.content")
                     Text("  ")
+                    
+                    NavigationLink(destination: InAppWebView(url: url)) {
+                                          HStack {
+                                              Text("school.website")
+                                              Image(systemName: "link")
+                                          }
+                                          .foregroundColor(colorScheme == .dark ? Color.white : Color.black)
+                                      }
 
                 }
                 .padding()

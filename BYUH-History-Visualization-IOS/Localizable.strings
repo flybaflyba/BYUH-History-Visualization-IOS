@@ -49,9 +49,9 @@
 "without.background" = "without background";
 
 // AboutView
-"about.content" = "Programming by Litian Zhang under the supervision of Dr. Geoffrey Draper at Brigham Young University--Hawaii. \r\rThis app is a research project funded by Brigham Young University--Hawaii, however the contents are the responsibility of its developers. ";
-"app.website" = "App Website";
-"app.website.url" = "https://latterdaytemples.litianzhang.com/apple-english/";
+"about.content" = "This app is created by Tsz Chin Lam, Abigail Smith, and Litian Zhang under the supervision of Dr. Geoffrey Draper at Brigham Young University--Hawaii. \r\rThis app is a research project funded by Brigham Young University--Hawaii, however the contents are the responsibility of its developers. ";
+"school.website" = "BYU-H History";
+"school.website.url" = "https://about.byuh.edu/brief-history";
 
 
 

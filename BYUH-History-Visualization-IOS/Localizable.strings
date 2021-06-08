@@ -49,7 +49,7 @@
 "without.background" = "without background";
 
 // AboutView
-"about.content" = "This app is created by Tsz Chin Lam, Abigail Smith, and Litian Zhang under the supervision of Dr. Geoffrey Draper at Brigham Young University--Hawaii. \r\rThis app is a research project funded by Brigham Young University--Hawaii, however the contents are the responsibility of its developers. ";
+"about.content" = "Created by Tsz Chin Lam, Abigail Smith, and Litian Zhang under the supervision of Dr. Geoffrey Draper at Brigham Young University--Hawaii. \r\rPhotos are copyrighted by Intellectual Reserve, Inc. Used by permission. \r\rThis app is a research project funded by Brigham Young University--Hawaii. This app is not an \"official\" publication of Brigham Young University--Hawaii. ";
 "school.website" = "BYU-H History";
 "school.website.url" = "https://about.byuh.edu/brief-history";
 

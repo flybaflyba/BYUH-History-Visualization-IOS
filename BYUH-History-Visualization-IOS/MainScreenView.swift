@@ -28,6 +28,14 @@ struct MainScreenView: View {
     
     @Environment(\.colorScheme) var colorScheme
     
+    
+    init() {
+        //UINavigationBar.appearance().titleTextAttributes = [.backgroundColor: UIColor.red]
+        
+//        UINavigationBar.appearance().backgroundColor = UIColor.green
+        UINavigationBar.appearance().barTintColor = UIColor.red //sharedValues.navigationBarColor
+    }
+    
     func buttonToYearPicker() -> some View {
         var body: some View {
             Button(action: {
@@ -111,6 +119,8 @@ struct MainScreenView: View {
     
     var body: some View {
         ZStack {
+//            Color.red.edgesIgnoringSafeArea(.all)
+            
             NavigationView {
                 SpiralView(imageSpiralViewModel: imageSpiralViewModel)
                     //.frame(width: screenWidth, height: screenHeight, alignment: Alignment.center)
@@ -136,10 +146,17 @@ struct MainScreenView: View {
                                 }
                         }
                     )
+                    .background(sharedValues.spiralColor)
+                
+            
+                    
             }
             .navigationViewStyle(StackNavigationViewStyle())
+        
             
-            
+            //Color.green.opacity(0.5).edgesIgnoringSafeArea(.all)
+//            .foregroundColor(Color.red)
+                        
         }
         //.environment(\.locale, .init(identifier: "zh"))
         //.foregroundColor(Color.red)

@@ -788,13 +788,29 @@ struct SpiralView: View {
                                 .position(x: geometry.size.width / 2, y: geometry.size.height * 0.6)
                         }
                     }
+                    
+                    
                 } else {
-                    MileStoneDatesView(imageSpiralViewModel: imageSpiralViewModel)
-                        .frame(maxHeight: currentScreenHeight * 0.5)
-                        .background(Color.red.opacity(0.0001))  // we need this, so that touch event on single temple view on non circle or text area can be recognized
-                        //.background(Color.purple)
+//                    MileStoneDatesView(imageSpiralViewModel: imageSpiralViewModel)
+//                        .frame(maxHeight: currentScreenHeight * 0.5)
+//                        .background(Color.red.opacity(0.0001))  // we need this, so that touch event on single temple view on non circle or text area can be recognized
+//                        //.background(Color.purple)
+//
+                    GeometryReader { geometry in
+                        VStack {
+                            // be aware force slider size was causing me a HUGE bug. that's why we used geometry reader here
+                            MileStoneDatesView(imageSpiralViewModel: imageSpiralViewModel)
+                                .frame(width: geometry.size.width * 0.8, height: geometry.size.height * 0.7, alignment: Alignment.center)
+                                //.background(Color.red)
+                                .position(x: geometry.size.width * 0.4, y: geometry.size.height * 0.5)
+                                .background(Color.red.opacity(0.0001))
+                        }
+                    }
+
                 }
             }
+            .background(sharedValues.mainColor)
+            .edgesIgnoringSafeArea(.all)
         }
         return body
 }

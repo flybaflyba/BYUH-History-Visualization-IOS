@@ -33,7 +33,10 @@ struct MainScreenView: View {
         //UINavigationBar.appearance().titleTextAttributes = [.backgroundColor: UIColor.red]
         
 //        UINavigationBar.appearance().backgroundColor = UIColor.green
-        UINavigationBar.appearance().barTintColor = UIColor.red //sharedValues.navigationBarColor
+        UINavigationBar.appearance().barTintColor = UIColor(red: 158/255, green: 27/255, blue: 52/255, alpha: 1) //UIColor.red //sharedValues.navigationBarColor
+        
+        // Crimson --- red: 158/255, green: 27/255, blue: 52/255, alpha: 1
+        // Crimson --- red: 170/255, green: 128/255, blue: 14/255, alpha: 1
     }
     
     func buttonToYearPicker() -> some View {
@@ -146,7 +149,7 @@ struct MainScreenView: View {
                                 }
                         }
                     )
-                    .background(sharedValues.spiralColor)
+                    .background(sharedValues.mainColor)
                 
             
                     
@@ -741,7 +744,7 @@ struct SpiralView: View {
                 drawTemples()
                 .frame(width: currentScreenWidth, height: currentScreenHeight * sharedValues.spiralViewHeight, alignment: Alignment.center)
                 
-                Spacer(minLength: 0)
+                Spacer(minLength: 0).background(sharedValues.mainColor)
                 
                 // we show mile stone dates once a temple is tapped,
                 if sharedValues.tappedATemple == false {
@@ -755,7 +758,7 @@ struct SpiralView: View {
                     MileStoneDatesView(imageSpiralViewModel: imageSpiralViewModel)
                         .frame(width: currentScreenWidth, height: currentScreenHeight * sharedValues.mileStoneDatesViewHeight, alignment: Alignment.center)
                         .background(Color.red.opacity(0.0001))  // we need this, so that touch event on single temple view on non circle or text area can be recognized
-                        
+                        //.background(Color.red)
                 }
                 // if we put back ground color for spiral, we might need this to fill up the bottom,
                 // no need this if we don't set any custome color, just use the default light and dart mode of ios

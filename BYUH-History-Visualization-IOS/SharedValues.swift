@@ -130,7 +130,7 @@ class SharedValues: ObservableObject {
     @Published var fastAnimationColor = nonMainViewColorSchemaPublic
     @Published var offAnimationColor = Color.blue
     
-    @Published var spiralColor = Color.red
+    @Published var mainColor = Color(red: 158/255, green: 27/255, blue: 52/255)
     @Published var navigationBarColor = UIColor.red
     
     @Published var showLabelOn = Color.blue

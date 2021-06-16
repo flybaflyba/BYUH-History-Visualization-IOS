@@ -326,7 +326,7 @@ struct SpiralView: View {
     
     func dragOnEndActionInSingleTempleView(temple: Spiral<Image>.Temple) {
         if temple.x >= centerX - temple.size / 2 && temple.x <= centerX + temple.size / 2 && temple.y >= 0 && temple.y <= centerY * 2 {
-            imageSpiralViewModel.setTemple(id: temple.id, newX: centerX, newY: centerY, newSize: temple.size)
+            imageSpiralViewModel.setTemple(id: temple.id, newX: centerX * (0.5 / 0.57), newY: centerY, newSize: temple.size)
             
         } else {
             //imageSpiralViewModel.changeATemple(id: temple.id)
@@ -342,7 +342,7 @@ struct SpiralView: View {
                     imageSpiralViewModel.setTemple(id: temple.id, newX: centerX * 5, newY: centerY, newSize: temple.size)
                     imageSpiralViewModel.setTemple(id: temple.id - 1, newX: -centerX * 2, newY: centerY, newSize: screenWidth * 0.9)
                     SwiftUI.withAnimation(sharedValues.animationOption == "slow" ? sharedValues.mySlowAnimation : sharedValues.animationOption == "fast" ? sharedValues.myFastAnimation : .none) {
-                        imageSpiralViewModel.setTemple(id: temple.id - 1, newX: centerX, newY: centerY, newSize: temple.size + 1)
+                        imageSpiralViewModel.setTemple(id: temple.id - 1, newX: centerX * (0.5 / 0.57), newY: centerY, newSize: temple.size + 1)
                     }
                     
                     sharedValues.oneTempleInfo = imageSpiralViewModel.readOneTempleInfoFromFile(fileName: imageSpiralViewModel.onScreenTemples[temple.id - 1].fileName)
@@ -374,7 +374,7 @@ struct SpiralView: View {
                     imageSpiralViewModel.setTemple(id: temple.id, newX: -centerX * 2, newY: centerY, newSize: temple.size)
                     imageSpiralViewModel.setTemple(id: temple.id + 1, newX: centerX * 5, newY: centerY, newSize: screenWidth * 0.9)
                     SwiftUI.withAnimation(sharedValues.animationOption == "slow" ? sharedValues.mySlowAnimation : sharedValues.animationOption == "fast" ? sharedValues.myFastAnimation : .none) {
-                        imageSpiralViewModel.setTemple(id: temple.id + 1, newX: centerX, newY: centerY, newSize: temple.size + 1)
+                        imageSpiralViewModel.setTemple(id: temple.id + 1, newX: centerX * (0.5 / 0.57), newY: centerY, newSize: temple.size + 1)
                     }
                     
                     sharedValues.oneTempleInfo = imageSpiralViewModel.readOneTempleInfoFromFile(fileName: imageSpiralViewModel.onScreenTemples[temple.id + 1].fileName)
